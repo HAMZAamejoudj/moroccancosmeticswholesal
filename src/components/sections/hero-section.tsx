@@ -2,7 +2,6 @@ import Image from "next/image";
 import { getTranslations } from "next-intl/server";
 import { Eyebrow } from "@/components/ui/eyebrow";
 import { Link } from "@/i18n/navigation";
-import { SITE } from "@/lib/constants";
 
 export async function HeroSection() {
   const t = await getTranslations("home.hero");
@@ -54,14 +53,12 @@ export async function HeroSection() {
             >
               {t("productsCta")}
             </Link>
-            <a
-              href={SITE.catalogUrl}
-              target="_blank"
-              rel="noopener noreferrer"
+            <Link
+              href="/contact"
               className="inline-flex h-12 items-center justify-center rounded-full border-2 border-white/35 bg-white/10 px-8 text-sm font-semibold text-white backdrop-blur-sm transition-colors hover:bg-white/15"
             >
               {t("catalogCta")}
-            </a>
+            </Link>
           </div>
         </div>
       </div>

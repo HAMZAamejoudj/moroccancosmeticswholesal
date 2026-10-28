@@ -3,7 +3,6 @@ import { hasLocale } from "next-intl";
 import { setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import { pageMetadata } from "@/lib/seo";
-import { CatalogModal } from "@/components/catalog-modal";
 import { BuyingGuideSection } from "@/components/sections/buying-guide-section";
 import { CtaSection } from "@/components/sections/cta-section";
 import { ExportSection } from "@/components/sections/export-section";
@@ -41,7 +40,6 @@ export default async function Home({ params }: HomePageProps) {
       </main>
       <CtaSection />
       <SiteFooter />
-      <CatalogModal />
     </>
   );
 }
