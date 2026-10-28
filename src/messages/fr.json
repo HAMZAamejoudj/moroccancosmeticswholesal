@@ -172,9 +172,10 @@
       "ourQuality": "Notre qualité",
       "exportServices": "Export",
       "benefitsGuides": "Guides bienfaits",
-      "blog": "Blog",
-      "faq": "FAQ",
-      "contact": "Contact"
+      "blog": "Actualités & Conseils",
+      "faq": "FAQ & Support",
+      "contact": "Contacter notre équipe",
+      "about": "À propos de notre usine"
     },
     "productLinks": {
       "arganOil": "Huile d’argan",
@@ -210,10 +211,10 @@
   "home": {
     "hero": {
       "eyebrow": "Grossiste en cosmétiques marocains",
-      "titleLine1": "Grossiste en cosmétiques marocains",
-      "titleLine2": "Fabricant et exportateur",
-      "titleMobile1": "Grossiste en cosmétiques marocains",
-      "titleMobile2": "Fabricant et exportateur",
+      "titleLine1": "Grossiste en cosmétiques",
+      "titleLine2": "marocains",
+      "titleMobile1": "Grossiste en cosmétiques",
+      "titleMobile2": "marocains",
       "subtitle": "Grossiste et fabricant de cosmétiques marocains 100 % purs et naturels — vente en gros et export direct depuis notre usine à Marrakech.",
       "badgeQuality": "Qualité",
       "badgeAuthenticity": "Authenticité",

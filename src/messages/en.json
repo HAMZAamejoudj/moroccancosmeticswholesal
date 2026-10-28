@@ -172,9 +172,10 @@
       "ourQuality": "Our Quality",
       "exportServices": "Export Services",
       "benefitsGuides": "Benefits guides",
-      "blog": "Blog",
-      "faq": "FAQ",
-      "contact": "Contact"
+      "blog": "Industry insights",
+      "faq": "Wholesale FAQ",
+      "contact": "Contact our team",
+      "about": "About our factory"
     },
     "productLinks": {
       "arganOil": "Argan Oil",
@@ -210,10 +211,10 @@
   "home": {
     "hero": {
       "eyebrow": "Moroccan cosmetics wholesale",
-      "titleLine1": "Moroccan cosmetics wholesale",
-      "titleLine2": "Manufacturer & exporter",
-      "titleMobile1": "Moroccan cosmetics wholesale",
-      "titleMobile2": "Manufacturer & exporter",
+      "titleLine1": "Moroccan cosmetics",
+      "titleLine2": "wholesale",
+      "titleMobile1": "Moroccan cosmetics",
+      "titleMobile2": "wholesale",
       "subtitle": "Moroccan cosmetics wholesale manufacturer and exporter — 100% pure authentic natural ingredients at competitive wholesale prices directly from our Marrakesh factory.",
       "badgeQuality": "Quality",
       "badgeAuthenticity": "Authenticity",
