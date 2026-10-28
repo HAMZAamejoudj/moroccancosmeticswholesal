@@ -10,45 +10,21 @@ export const homeProductSlugs = [
   "spa-ritual-essentials",
 ] as const;
 
-type HomeProductSlug = (typeof homeProductSlugs)[number];
+type ProductItems = Awaited<ReturnType<typeof getMessages>>["products"]["items"];
+type LocalizedProductCopy = ProductItems[keyof ProductItems];
 
-function isHomeProductSlug(slug: string): slug is HomeProductSlug {
-  return (homeProductSlugs as readonly string[]).includes(slug);
-}
-
-type LocalizedProductCopy = Pick<
-  FullProduct,
-  | "categoryLabel"
-  | "title"
-  | "summary"
-  | "alt"
-  | "heroSubtitle"
-  | "description"
-  | "highlights"
-  | "benefits"
-  | "faq"
-  | "benefitsIntro"
-  | "detailsHeading"
-  | "detailsParagraphs"
-  | "detailsNote"
-  | "usageHeading"
-  | "usageSubtitle"
-  | "usageSteps"
-  | "faqIntro"
-  | "specs"
-  | "ctaTitle"
-  | "ctaDescription"
->;
-
-async function getProductCopy(slug: HomeProductSlug): Promise<LocalizedProductCopy> {
-  const messages = await getMessages();
-  return messages.products.items[slug] as LocalizedProductCopy;
+function getItemCopy(
+  messages: Awaited<ReturnType<typeof getMessages>>,
+  slug: string,
+): LocalizedProductCopy | undefined {
+  return (messages.products.items as Record<string, LocalizedProductCopy | undefined>)[slug];
 }
 
 export async function localizeCatalogProduct(product: CatalogProduct): Promise<CatalogProduct> {
-  if (!isHomeProductSlug(product.slug)) return product;
+  const messages = await getMessages();
+  const copy = getItemCopy(messages, product.slug);
+  if (!copy) return product;
 
-  const copy = await getProductCopy(product.slug);
   return {
     ...product,
     categoryLabel: copy.categoryLabel,
@@ -66,9 +42,11 @@ export async function localizeCatalogProduct(product: CatalogProduct): Promise<C
 export async function getLocalizedFullProduct(slug: string): Promise<FullProduct | undefined> {
   const product = getFullProduct(slug);
   if (!product) return undefined;
-  if (!isHomeProductSlug(slug)) return product;
 
-  const copy = await getProductCopy(slug);
+  const messages = await getMessages();
+  const copy = getItemCopy(messages, slug);
+  if (!copy) return product;
+
   return {
     ...product,
     ...copy,

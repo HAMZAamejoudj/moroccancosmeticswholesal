@@ -1,0 +1,133 @@
+{
+  "heroTitle": "Foire aux questions",
+  "home": "Accueil",
+  "navLabel": "FAQ",
+  "eyebrow": "Centre d'aide",
+  "title": "Réponses pour les acheteurs professionnels",
+  "intro": "MOQ, marque blanche, export et qualité produit — questions fréquentes des distributeurs, fournisseurs de spas et marques s'approvisionnant en cosmétiques marocains depuis notre site de Marrakech.",
+  "categoriesAria": "Catégories de la FAQ",
+  "stillHaveQuestion": "Vous avez encore une question ?",
+  "contactTeam": "Contactez notre équipe commerciale",
+  "orMessage": "ou écrivez-nous sur",
+  "whatsapp": "WhatsApp",
+  "ctaTitle": "Prêt à passer une commande en gros ou en marque blanche ?",
+  "ctaDescription": "Demandez le catalogue avec le détail des MOQ, échantillons et conditions d'exportation pour votre marché.",
+  "sections": [
+    {
+      "id": "general",
+      "title": "Général",
+      "description": "Qui nous sommes et comment nous collaborons avec les acheteurs B2B.",
+      "items": [
+        {
+          "question": "Qu'est-ce que Moroccan Cosmetics Wholesale ?",
+          "answer": "Nous sommes un fabricant, grossiste et exportateur de cosmétiques marocains basé à Marrakech. Nous fournissons des produits en vrac, des programmes en marque blanche et des services d'exportation aux distributeurs, spas, hôtels et marques de beauté du monde entier."
+        },
+        {
+          "question": "Vendez-vous aux particuliers sur ce site ?",
+          "answer": "Ce site s'adresse aux professionnels et acheteurs en gros. Les consommateurs particuliers peuvent explorer le catalogue de notre partenaire sur moroccanorganica.com ; les demandes de vrac et de marque blanche sont traitées par nos canaux dédiés aux grossistes."
+        },
+        {
+          "question": "Où se trouve votre usine ?",
+          "answer": "Nos installations se situent à Marrakech au Maroc — Lot 377 N°3/6 Zone Industrielle Sidi Ghanem. C'est ici que la fabrication, le conditionnement et la préparation à l'exportation sont coordonnées."
+        },
+        {
+          "question": "Comment demander le catalogue de gros ?",
+          "answer": "Utilisez le lien vers le catalogue ou le bouton WhatsApp sur ce site pour joindre notre équipe. Nous vous transmettrons la liste des produits, les conseils sur les MOQ et des devis adaptés à votre marché."
+        }
+      ]
+    },
+    {
+      "id": "wholesale",
+      "title": "Vente en gros & MOQ",
+      "description": "Volumes de commande, tarifs et échantillons.",
+      "items": [
+        {
+          "question": "Quel est le minimum de commande (MOQ) ?",
+          "answer": "Le MOQ démarre généralement à 50 pièces selon le type de produit, le format de packaging et les exigences d'étiquetage. Les commandes mixtes sont souvent possibles — précisez vos besoins lors de votre demande de devis."
+        },
+        {
+          "question": "Puis-je commander plusieurs produits dans un même envoi ?",
+          "answer": "Oui. Les distributeurs regroupent fréquemment des huiles, des soins de hammam et des références spa dans une même expédition. Nous vous aidons à composer vos cartons selon votre plan de gamme."
+        },
+        {
+          "question": "Des échantillons sont-ils disponibles avant une commande en gros ?",
+          "answer": "L'envoi d'échantillons peut être convenu lors de votre prise de contact pour le catalogue et le devis. Cela vous permet de valider la texture, le parfum et le conditionnement avant la mise en production."
+        },
+        {
+          "question": "Quels modes de paiement acceptez-vous ?",
+          "answer": "Nous travaillons avec les options de paiement B2B internationales usuelles, notamment le virement bancaire et les instruments de commerce international reconnus. Les conditions sont confirmées par commande selon le profil client."
+        }
+      ]
+    },
+    {
+      "id": "private-label",
+      "title": "Marque blanche",
+      "description": "Branding, packaging et collections sur mesure.",
+      "items": [
+        {
+          "question": "Qu'est-ce que la fabrication cosmétique marocaine en marque blanche ?",
+          "answer": "La marque blanche signifie que nous fabriquons des cosmétiques marocains sous votre propre marque — avec votre packaging et votre identité — tout en vous faisant bénéficier de notre usine, nos ingrédients et notre infrastructure export à Marrakech."
+        },
+        {
+          "question": "Quels produits puis-je développer en marque blanche ?",
+          "answer": "La majorité de notre gamme grossiste est disponible en marque blanche : huile d'argan, huile de pépins de figue de Barbarie, savon noir, argile ghassoul, poudre de nila, aker fassi, eau de rose et coffrets rituels spa."
+        },
+        {
+          "question": "Pouvez-vous nous aider pour les étiquettes et les documents réglementaires ?",
+          "answer": "Nous vous accompagnons pour l'étiquetage, les fiches techniques et les documents d'export. Indiquez-nous les règles de votre marché cible pour aligner les listes INCI et les dossiers de conformité."
+        },
+        {
+          "question": "Quel est le délai pour une commande en marque blanche ?",
+          "answer": "Le délai dépend du SKU, du type de flaconnage et de la validation des BAT d'impression. Indiquez votre date de lancement souhaitée dans votre brief pour convenir d'un planning réaliste."
+        }
+      ]
+    },
+    {
+      "id": "export",
+      "title": "Exportation & expédition",
+      "description": "Documentation, transporteurs et livraison internationale.",
+      "items": [
+        {
+          "question": "Expédiez-vous à l'international ?",
+          "answer": "Oui. Nous exportons vers l'Europe, les Amériques, l'Afrique, le Golfe et d'autres destinations avec toute la documentation requise et le suivi des transporteurs."
+        },
+        {
+          "question": "Quels partenaires de livraison utilisez-vous ?",
+          "answer": "Nous collaborons avec les principaux transporteurs express et transitaires internationaux (DHL, FedEx, UPS, Aramex et autres selon la destination, comme indiqué en pied de page)."
+        },
+        {
+          "question": "Quels documents d'exportation sont fournis ?",
+          "answer": "Chaque envoi comprend la facture commerciale et la liste de colisage détaillant le contenu des cartons. Des certificats ou analyses complémentaires peuvent être fournis selon vos exigences douanières."
+        },
+        {
+          "question": "Pouvez-vous expédier directement à mon entrepôt ou chez mon logisticien 3PL ?",
+          "answer": "Oui. Il vous suffit de nous fournir l'adresse de livraison, les contacts de réception et les éventuelles consignes logistiques lors de la validation de commande."
+        }
+      ]
+    },
+    {
+      "id": "quality",
+      "title": "Qualité & produits",
+      "description": "Normes, ingrédients et champ d'application.",
+      "items": [
+        {
+          "question": "Êtes-vous certifiés ISO et conformes aux BPF (GMP) ?",
+          "answer": "Notre production applique les référentiels de certification ISO et les bonnes pratiques de fabrication (BPF/GMP) pour garantir des cosmétiques sûrs, réguliers et prêts pour les marchés d'exportation."
+        },
+        {
+          "question": "Proposez-vous de l'huile d'argan cosmétique et alimentaire ?",
+          "answer": "Oui. L'huile d'argan est disponible en qualité cosmétique pour vos formulations et en qualité alimentaire. Précisez l'usage prévu lors de votre demande."
+        },
+        {
+          "question": "Quelles catégories de produits fabriquez-vous ?",
+          "answer": "Huiles de soin visage et cheveux, savon noir marocain traditionnel, argile ghassoul, eaux florales, poudres traditionnelles (nila, aker fassi) et gammes complètes pour rituels de spa."
+        },
+        {
+          "question": "Puis-je consulter les fiches produits avant de commander ?",
+          "answer": "Oui. Parcourez nos sections Produits et Bienfaits pour découvrir les spécifications, conseils d'utilisation et demander un devis par référence."
+        }
+      ]
+    }
+  ]
+}
+

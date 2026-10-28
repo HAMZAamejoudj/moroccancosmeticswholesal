@@ -19,6 +19,46 @@
     "trustExport": "Worldwide Export",
     "trustMoq": "MOQ 50 PCS — Private Label"
   },
+  "listing": {
+    "heroTitle": "Our Moroccan cosmetics wholesale catalog",
+    "eyebrow": "Premium wholesale range",
+    "introTitleLine1": "Authentic products from",
+    "introTitleLine2": "our Moroccan factory",
+    "intro": "ISO and GMP compliant manufacturing, export-ready documentation, and private label services. Request a quote for pricing and MOQ details.",
+    "categoriesEyebrow": "Product categories",
+    "categoriesTitle": "Browse by wholesale category",
+    "categoriesIntro": "Explore our main Moroccan cosmetics families — oils, powders, clays, and spa essentials for bulk supply and private label."
+  },
+  "categories": {
+    "cosmetic-food-argan-oil": {
+      "title": "Argan Oil",
+      "description": "Bulk Moroccan argan oil for cosmetics, food partners, spas, and private label."
+    },
+    "prickly-pear-seed-oil": {
+      "title": "Prickly Pear Oil",
+      "description": "Premium anti-aging oil for high-value skincare and serum formulations."
+    },
+    "moroccan-black-soap": {
+      "title": "Black Soap",
+      "description": "Traditional savon beldi for hammam programs and wholesale bath lines."
+    },
+    "moroccan-nila-powder": {
+      "title": "Nila Powder",
+      "description": "Moroccan nila for brightening masks, rituals, and natural beauty products."
+    },
+    "aker-fassi-powder": {
+      "title": "Aker Fassi",
+      "description": "Natural Moroccan tint for lips, cheeks, and traditional beauty formulas."
+    },
+    "moroccan-rose-water": {
+      "title": "Rose Water",
+      "description": "Moroccan rose water for toners, mists, spa menus, and skincare manufacturing."
+    },
+    "moroccan-ghassoul-clay": {
+      "title": "Ghassoul Clay",
+      "description": "Rhassoul clay for masks, spas, hair care, and hammam wholesale supply."
+    }
+  },
   "items": {
     "cosmetic-food-argan-oil": {
       "categoryLabel": "Argan Oil — Bulk Supply",
@@ -236,6 +276,164 @@
       ],
       "ctaTitle": "Source aker fassi for your brand?",
       "ctaDescription": "Contact us for bulk aker fassi, private label, and export pricing."
+    },
+    "moroccan-black-soap": {
+      "categoryLabel": "Moroccan Black Soap",
+      "title": "Moroccan Black Soap (Savon Beldi) Wholesale",
+      "summary": "Traditional hammam black soap for spas, salons, distributors, and Moroccan bath product ranges.",
+      "alt": "Traditional Moroccan black soap for hammam and spa wholesale",
+      "heroSubtitle": "Authentic savon beldi for spa and wholesale supply",
+      "description": "Moroccan black soap is a core product in hammam rituals and natural body care. We supply black soap in bulk for wholesalers, spa brands, and private label bath collections exported from Morocco.",
+      "highlights": [
+        "Traditional Moroccan bath and hammam use",
+        "Suitable for spa menus and body care brands",
+        "Bulk and private label packaging options",
+        "Part of our Moroccan bath product range",
+        "Manufactured for consistent wholesale quality"
+      ],
+      "benefitsIntro": "Traditional savon beldi for hammam rituals, spa menus, and Moroccan bath wholesale catalogs.",
+      "benefits": [
+        { "title": "Spa ritual essential", "description": "Ideal for hammam treatments, exfoliation rituals, and professional spa services." },
+        { "title": "Wholesale bath category", "description": "Complements ghassoul, rose water, and argan oil in complete Moroccan spa lines." },
+        { "title": "Brand-ready supply", "description": "Available for distributors building natural Moroccan cosmetics catalogs." },
+        { "title": "Export support", "description": "Documentation and logistics handled for international wholesale buyers." },
+        { "title": "Flexible packaging", "description": "Pack sizes adapted to spas, retailers, and distributors." },
+        { "title": "Global export ready", "description": "Export documentation and logistics for bath product orders." }
+      ],
+      "detailsHeading": "Moroccan black soap — savon beldi wholesale",
+      "detailsParagraphs": [
+        "Black soap is essential for authentic Moroccan hammam experiences and natural body care ranges. We manufacture and supply black soap for wholesalers, hotels, spas, and private label bath brands.",
+        "Pair black soap with ghassoul clay and rose water to build a complete export-ready spa category."
+      ],
+      "usageHeading": "How to sell Moroccan black soap wholesale",
+      "usageSubtitle": "For spas, salons, e-commerce bath brands, and hospitality suppliers.",
+      "usageSteps": [
+        { "title": "Choose packaging", "description": "Bulk, retail jars, or private label hammam sets." },
+        { "title": "Build your range", "description": "Combine with ghassoul, rose water, and argan oil." },
+        { "title": "Request pricing", "description": "Share volumes and markets for MOQ and quote." },
+        { "title": "Export", "description": "Ship internationally with our documentation support." }
+      ],
+      "faqIntro": "Wholesale Moroccan black soap from manufacturer source in Marrakesh, Morocco.",
+      "faq": [
+        { "question": "Can black soap be included in a private label spa range?", "answer": "Yes. We support private label packaging for Moroccan bath and spa product collections." },
+        { "question": "Can black soap be sold as part of a hammam kit?", "answer": "Yes. Many clients combine black soap with ghassoul and rose water in spa assortments." },
+        { "question": "Is private label available?", "answer": "Yes. We offer custom labels and packaging for Moroccan bath product lines." },
+        { "question": "What is the wholesale MOQ?", "answer": "MOQ starts from 50 pieces depending on product format and packaging." }
+      ],
+      "specs": [
+        { "label": "Origin", "value": "Morocco" },
+        { "label": "MOQ", "value": "From 50 pieces" },
+        { "label": "Certification", "value": "ISO & GMP manufacturing standards" },
+        { "label": "Services", "value": "Bulk supply, private label, export" },
+        { "label": "Category", "value": "Moroccan bath & hammam" }
+      ],
+      "ctaTitle": "Wholesale black soap for your spa or brand?",
+      "ctaDescription": "Contact us for savon beldi pricing, private label, and export supply."
+    },
+    "moroccan-rose-water": {
+      "categoryLabel": "Organic Rose Water",
+      "title": "Moroccan Rose Water Wholesale",
+      "summary": "Steam-distilled rose water for toners, mists, spa treatments, and cosmetic formulations.",
+      "alt": "Collection of traditional Moroccan spa products including Rose Water",
+      "heroSubtitle": "Moroccan rose water for skincare and spa lines",
+      "description": "Rose water is a staple in Moroccan skincare, spa rituals, and natural cosmetic manufacturing. We supply rose water wholesale with export support, private label bottles, and bulk options.",
+      "highlights": [
+        "Ideal for toners, mists, and cleansers",
+        "Popular spa and hammam companion product",
+        "Bulk and private label packaging",
+        "Part of Moroccan bath and skincare ranges",
+        "Exported with wholesale documentation"
+      ],
+      "benefitsIntro": "Moroccan rose water for toners, mists, cleansers, and spa wholesale programs.",
+      "benefits": [
+        { "title": "Spa and skincare use", "description": "Used in facial mists, toners, masks, and professional treatment menus." },
+        { "title": "Catalog anchor product", "description": "Essential item for Moroccan cosmetics wholesale and retail assortments." },
+        { "title": "Private label ready", "description": "Custom labels and packaging for brands entering the market quickly." },
+        { "title": "Global shipping", "description": "Supported by our export and logistics process for international clients." },
+        { "title": "Flexible packaging", "description": "Multiple bottle and bulk formats for distributors." },
+        { "title": "Global export ready", "description": "Logistics and documents for international clients." }
+      ],
+      "detailsHeading": "Organic Moroccan rose water — bulk supply",
+      "detailsParagraphs": [
+        "Rose water is a high-demand item in Moroccan skincare and hammam assortments. We manufacture and export rose water for wholesalers, cosmetic brands, and hospitality suppliers.",
+        "Available in bulk and private label bottles with export documentation for global markets."
+      ],
+      "usageHeading": "How to use rose water in wholesale assortments",
+      "usageSubtitle": "Facial mists, toners, spa menus, and formulation bases.",
+      "usageSteps": [
+        { "title": "Select volume", "description": "Bulk liquid supply or labeled retail bottles." },
+        { "title": "Brand option", "description": "Private label design for fast market entry." },
+        { "title": "Quality check", "description": "Confirm specifications before production run." },
+        { "title": "Export", "description": "International delivery with required documents." }
+      ],
+      "faqIntro": "Wholesale Moroccan rose water from manufacturer and exporter in Morocco.",
+      "faq": [
+        { "question": "Do you offer rose water for private label bottles?", "answer": "Yes. Private label packaging and branding are part of our wholesale and manufacturing services." },
+        { "question": "Can rose water be exported to my country?", "answer": "We export to many regions. Share your destination for compliance and shipping details." },
+        { "question": "What is the MOQ?", "answer": "MOQ starts from 50 pieces depending on bottle size and order mix." }
+      ],
+      "specs": [
+        { "label": "Origin", "value": "Morocco" },
+        { "label": "MOQ", "value": "From 50 pieces" },
+        { "label": "Certification", "value": "ISO & GMP manufacturing standards" },
+        { "label": "Services", "value": "Bulk supply, private label, export" },
+        { "label": "Type", "value": "Floral water / toner base" }
+      ],
+      "ctaTitle": "Need rose water for wholesale or private label?",
+      "ctaDescription": "Request pricing for bulk rose water and export supply programs."
+    },
+    "moroccan-ghassoul-clay": {
+      "categoryLabel": "Ghassoul Clay — Bulk Supply",
+      "title": "Moroccan Ghassoul Clay Wholesale",
+      "summary": "Traditional rhassoul clay for hair masks, face masks, hammam rituals, and spa wholesale lines.",
+      "alt": "Moroccan ghassoul clay for masks and hammam wholesale supply",
+      "heroSubtitle": "Atlas-style rhassoul clay for spa and hair care",
+      "description": "Ghassoul clay is a foundational Moroccan ingredient for cleansing masks, spa treatments, and natural hair care. We supply ghassoul in bulk to wholesalers, manufacturers, and export partners.",
+      "highlights": [
+        "Used in face masks and hair cleansing rituals",
+        "Core hammam and spa category product",
+        "Bulk supply with export documentation",
+        "Pairs with black soap and rose water",
+        "MOQ-friendly wholesale orders"
+      ],
+      "benefitsIntro": "Rhassoul clay for face masks, hair cleansing, and authentic hammam wholesale categories.",
+      "benefits": [
+        { "title": "Spa category strength", "description": "Build complete Moroccan hammam assortments with ghassoul as a hero ingredient." },
+        { "title": "Hair and skin applications", "description": "Suitable for masks, clays, and treatment products for salons and spas." },
+        { "title": "Wholesale export", "description": "Shipped as part of our Moroccan cosmetics export service worldwide." },
+        { "title": "Private label support", "description": "Custom packaging available for brands and distributors." },
+        { "title": "Flexible packaging", "description": "From bulk sacks to branded spa retail formats." },
+        { "title": "Global export ready", "description": "Full export workflow for clay cosmetic ingredients." }
+      ],
+      "detailsHeading": "Moroccan ghassoul clay — bulk rhassoul supplier",
+      "detailsParagraphs": [
+        "Ghassoul clay is a cornerstone of Moroccan spa and hair care. We supply bulk ghassoul to wholesalers, salons, and brands building natural mask and cleansing lines.",
+        "Export programs include documentation, flexible MOQ, and private label packaging options."
+      ],
+      "usageHeading": "How to build a ghassoul wholesale line",
+      "usageSubtitle": "Masks, clays, spa treatments, and hammam retail products.",
+      "usageSteps": [
+        { "title": "Choose grade & pack", "description": "Bulk powder or private label retail jars." },
+        { "title": "Pair products", "description": "Combine with black soap and rose water for kits." },
+        { "title": "Get quote", "description": "Volume-based wholesale pricing and MOQ confirmation." },
+        { "title": "Scale export", "description": "Repeat orders with consistent manufacturing quality." }
+      ],
+      "faqIntro": "Wholesale Moroccan ghassoul clay for spas, distributors, and cosmetic brands.",
+      "faq": [
+        { "question": "Can I mix ghassoul with other products in one wholesale order?", "answer": "Yes. We offer flexible wholesale orders across skincare, haircare, oils, and Moroccan bath products." },
+        { "question": "Can I order ghassoul with black soap?", "answer": "Yes. Mixed wholesale orders across bath products are supported." },
+        { "question": "Is private label available for ghassoul?", "answer": "Yes. Custom packaging and branding are available for spa and retail lines." },
+        { "question": "What documentation is included for export?", "answer": "Documentation is prepared according to destination and product requirements." }
+      ],
+      "specs": [
+        { "label": "Origin", "value": "Morocco" },
+        { "label": "MOQ", "value": "From 50 pieces" },
+        { "label": "Certification", "value": "ISO & GMP manufacturing standards" },
+        { "label": "Services", "value": "Bulk supply, private label, export" },
+        { "label": "Form", "value": "Natural clay powder" }
+      ],
+      "ctaTitle": "Bulk ghassoul clay for your business?",
+      "ctaDescription": "Contact us for rhassoul wholesale, private label, and international shipping."
     },
     "spa-ritual-essentials": {
       "categoryLabel": "Spa Ritual Essentials",

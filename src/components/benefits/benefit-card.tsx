@@ -1,9 +1,12 @@
 import Image from "next/image";
+import { getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { ArrowRight } from "lucide-react";
 import type { BenefitGuide } from "@/lib/benefits";
 
-export function BenefitCard({ guide }: { guide: BenefitGuide }) {
+export async function BenefitCard({ guide }: { guide: BenefitGuide }) {
+  const t = await getTranslations("guides.ui");
+
   return (
     <Link
       href={`/benefits/${guide.slug}`}
@@ -32,8 +35,8 @@ export function BenefitCard({ guide }: { guide: BenefitGuide }) {
           ))}
         </ul>
         <span className="inline-flex items-center gap-1 text-sm font-semibold text-primary">
-          Read benefits guide
-          <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
+          {t("readGuide")}
+          <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5 rtl:rotate-180" />
         </span>
       </div>
     </Link>

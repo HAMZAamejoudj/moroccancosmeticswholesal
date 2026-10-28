@@ -19,6 +19,46 @@
     "trustExport": "Export mondial",
     "trustMoq": "MOQ 50 pcs — marque blanche"
   },
+  "listing": {
+    "heroTitle": "Notre catalogue de cosmétiques marocains en gros",
+    "eyebrow": "Gamme gros premium",
+    "introTitleLine1": "Des produits authentiques de",
+    "introTitleLine2": "notre usine marocaine",
+    "intro": "Fabrication conforme ISO et GMP, documents d’export et services marque blanche. Demandez un devis pour les tarifs et le MOQ.",
+    "categoriesEyebrow": "Catégories produits",
+    "categoriesTitle": "Parcourir par catégorie gros",
+    "categoriesIntro": "Huiles, poudres, argiles et essentiels spa — pour le vrac et la marque blanche."
+  },
+  "categories": {
+    "cosmetic-food-argan-oil": {
+      "title": "Huile d’argan",
+      "description": "Huile d’argan marocaine en vrac pour cosmétique, food, spas et marque blanche."
+    },
+    "prickly-pear-seed-oil": {
+      "title": "Figue de Barbarie",
+      "description": "Huile anti-âge premium pour soins haut de gamme et sérums."
+    },
+    "moroccan-black-soap": {
+      "title": "Savon noir",
+      "description": "Savon beldi traditionnel pour programmes hammam et lignes de bain en gros."
+    },
+    "moroccan-nila-powder": {
+      "title": "Poudre nila",
+      "description": "Nila marocaine pour masques éclaircissants, rituels et soins naturels."
+    },
+    "aker-fassi-powder": {
+      "title": "Aker fassi",
+      "description": "Teinte naturelle marocaine pour lèvres, joues et formules traditionnelles."
+    },
+    "moroccan-rose-water": {
+      "title": "Eau de rose",
+      "description": "Eau de rose marocaine pour toniques, brumes, spas et fabrication cosmétique."
+    },
+    "moroccan-ghassoul-clay": {
+      "title": "Argile ghassoul",
+      "description": "Rhassoul pour masques, spas, capillaires et gros hammam."
+    }
+  },
   "items": {
     "cosmetic-food-argan-oil": {
       "categoryLabel": "Huile d’argan — vrac",
@@ -236,6 +276,164 @@
       ],
       "ctaTitle": "Sourcer l’aker fassi pour votre marque ?",
       "ctaDescription": "Contactez-nous pour le vrac, la marque blanche et les tarifs d’export."
+    },
+    "moroccan-black-soap": {
+      "categoryLabel": "Savon noir marocain",
+      "title": "Savon noir marocain (savon beldi) en gros",
+      "summary": "Savon noir de hammam pour spas, salons, distributeurs et gammes de bain marocaines.",
+      "alt": "Savon noir marocain traditionnel pour hammam et spa en gros",
+      "heroSubtitle": "Savon beldi authentique pour spas et gros",
+      "description": "Le savon noir est un produit central des rituels hammam et des soins corps naturels. Nous le fournissons en vrac aux grossistes, marques spa et collections bain marque blanche exportées du Maroc.",
+      "highlights": [
+        "Usage hammam et bain marocain traditionnel",
+        "Adapté aux cartes spa et marques corps",
+        "Vrac et packaging marque blanche",
+        "Intégré à notre gamme bain marocaine",
+        "Qualité gros constante, fabrication marocaine"
+      ],
+      "benefitsIntro": "Savon beldi traditionnel pour rituels hammam, cartes spa et catalogues bain en gros.",
+      "benefits": [
+        { "title": "Essentiel du rituel spa", "description": "Idéal pour soins hammam, gommages et services professionnels." },
+        { "title": "Catégorie bain en gros", "description": "Complète ghassoul, eau de rose et argan dans des lignes spa complètes." },
+        { "title": "Prêt pour la marque", "description": "Pour distributeurs qui construisent un catalogue cosmétique marocain naturel." },
+        { "title": "Support export", "description": "Documents et logistique pour acheteurs internationaux." },
+        { "title": "Conditionnement flexible", "description": "Formats adaptés aux spas, retailers et distributeurs." },
+        { "title": "Prêt à l’export", "description": "Documentation et logistique pour commandes de produits de bain." }
+      ],
+      "detailsHeading": "Savon noir marocain — savon beldi en gros",
+      "detailsParagraphs": [
+        "Le savon noir est indispensable aux expériences hammam authentiques et aux gammes corps naturelles. Nous le fabriquons et le fournissons aux grossistes, hôtels, spas et marques bain.",
+        "Associez-le au ghassoul et à l’eau de rose pour une catégorie spa prête à l’export."
+      ],
+      "usageHeading": "Vendre le savon noir marocain en gros",
+      "usageSubtitle": "Spas, salons, e-commerce bain et fournisseurs hospitality.",
+      "usageSteps": [
+        { "title": "Choisir le packaging", "description": "Vrac, pots retail ou kits hammam marque blanche." },
+        { "title": "Construire la gamme", "description": "Combiner avec ghassoul, eau de rose et huile d’argan." },
+        { "title": "Demander un tarif", "description": "Volumes et marchés pour MOQ et devis." },
+        { "title": "Exporter", "description": "Expédition internationale avec nos documents." }
+      ],
+      "faqIntro": "Savon noir marocain en gros, source fabricant à Marrakech.",
+      "faq": [
+        { "question": "Le savon noir peut-il entrer dans une gamme spa marque blanche ?", "answer": "Oui. Nous proposons le packaging marque blanche pour collections bain et spa." },
+        { "question": "Peut-il être vendu dans un kit hammam ?", "answer": "Oui. Beaucoup de clients l’associent au ghassoul et à l’eau de rose." },
+        { "question": "La marque blanche est-elle disponible ?", "answer": "Oui. Étiquettes et packaging sur mesure pour lignes de bain marocaines." },
+        { "question": "Quel est le MOQ gros ?", "answer": "À partir de 50 pièces selon le format et le packaging." }
+      ],
+      "specs": [
+        { "label": "Origine", "value": "Maroc" },
+        { "label": "MOQ", "value": "À partir de 50 pièces" },
+        { "label": "Certification", "value": "Normes de fabrication ISO et GMP" },
+        { "label": "Services", "value": "Vrac, marque blanche, export" },
+        { "label": "Catégorie", "value": "Bain et hammam marocains" }
+      ],
+      "ctaTitle": "Savon noir en gros pour votre spa ou votre marque ?",
+      "ctaDescription": "Contactez-nous pour tarifs savon beldi, marque blanche et export."
+    },
+    "moroccan-rose-water": {
+      "categoryLabel": "Eau de rose bio",
+      "title": "Eau de rose marocaine en gros",
+      "summary": "Eau de rose distillée à la vapeur pour toniques, brumes, spas et formules cosmétiques.",
+      "alt": "Produits spa marocains traditionnels, dont l’eau de rose",
+      "heroSubtitle": "Eau de rose marocaine pour soins et spas",
+      "description": "L’eau de rose est un incontournable des soins marocains, des rituels spa et de la fabrication cosmétique naturelle. Nous la fournissons en gros, avec flacons marque blanche et options vrac.",
+      "highlights": [
+        "Idéale pour toniques, brumes et nettoyants",
+        "Compagnon spa et hammam très demandé",
+        "Vrac et packaging marque blanche",
+        "Intégrée aux gammes bain et soins marocaines",
+        "Exportée avec documents gros"
+      ],
+      "benefitsIntro": "Eau de rose marocaine pour toniques, brumes, nettoyants et programmes spa en gros.",
+      "benefits": [
+        { "title": "Usage spa et soins", "description": "Brumes, toniques, masques et cartes de soins professionnelles." },
+        { "title": "Produit d’ancrage catalogue", "description": "Indispensable aux assortiments gros et retail de cosmétiques marocains." },
+        { "title": "Prête en marque blanche", "description": "Étiquettes et packaging pour un lancement rapide." },
+        { "title": "Livraison mondiale", "description": "Export et logistique pour clients internationaux." },
+        { "title": "Conditionnement flexible", "description": "Plusieurs formats flacons et vrac pour distributeurs." },
+        { "title": "Prêt à l’export", "description": "Logistique et documents pour l’international." }
+      ],
+      "detailsHeading": "Eau de rose marocaine — approvisionnement vrac",
+      "detailsParagraphs": [
+        "Produit à forte demande dans les assortiments soins et hammam. Nous fabriquons et exportons l’eau de rose pour grossistes, marques et hospitality.",
+        "Vrac et flacons marque blanche, avec documents d’export pour les marchés mondiaux."
+      ],
+      "usageHeading": "Intégrer l’eau de rose aux assortiments gros",
+      "usageSubtitle": "Brumes, toniques, cartes spa et bases de formulation.",
+      "usageSteps": [
+        { "title": "Choisir le volume", "description": "Liquide vrac ou flacons retail étiquetés." },
+        { "title": "Option marque", "description": "Design marque blanche pour une entrée marché rapide." },
+        { "title": "Contrôle qualité", "description": "Validez les spécifications avant production." },
+        { "title": "Exporter", "description": "Livraison internationale avec documents requis." }
+      ],
+      "faqIntro": "Eau de rose marocaine en gros, fabricant et exportateur au Maroc.",
+      "faq": [
+        { "question": "Proposez-vous des flacons eau de rose en marque blanche ?", "answer": "Oui. Packaging et branding font partie de nos services gros et fabrication." },
+        { "question": "Peut-on l’exporter vers mon pays ?", "answer": "Nous exportons vers de nombreuses régions. Indiquez la destination pour conformité et fret." },
+        { "question": "Quel est le MOQ ?", "answer": "À partir de 50 pièces selon le format et le mix de commande." }
+      ],
+      "specs": [
+        { "label": "Origine", "value": "Maroc" },
+        { "label": "MOQ", "value": "À partir de 50 pièces" },
+        { "label": "Certification", "value": "Normes de fabrication ISO et GMP" },
+        { "label": "Services", "value": "Vrac, marque blanche, export" },
+        { "label": "Type", "value": "Eau florale / base tonique" }
+      ],
+      "ctaTitle": "Besoin d’eau de rose en gros ou en marque blanche ?",
+      "ctaDescription": "Demandez un tarif pour le vrac et les programmes d’export."
+    },
+    "moroccan-ghassoul-clay": {
+      "categoryLabel": "Argile ghassoul — vrac",
+      "title": "Argile ghassoul marocaine en gros",
+      "summary": "Argile rhassoul traditionnelle pour masques cheveux et visage, rituels hammam et lignes spa en gros.",
+      "alt": "Argile ghassoul marocaine pour masques et hammam en gros",
+      "heroSubtitle": "Rhassoul type Atlas pour spa et capillaires",
+      "description": "Le ghassoul est un ingrédient fondateur des masques, spas et soins capillaires naturels marocains. Nous le fournissons en vrac aux grossistes, fabricants et partenaires export.",
+      "highlights": [
+        "Masques visage et rituels capillaires",
+        "Produit cœur hammam et spa",
+        "Vrac avec documents d’export",
+        "S’associe au savon noir et à l’eau de rose",
+        "Commandes gros avec MOQ accessible"
+      ],
+      "benefitsIntro": "Argile rhassoul pour masques, lavage capillaire et catégories hammam authentiques en gros.",
+      "benefits": [
+        { "title": "Force de catégorie spa", "description": "Construisez des assortiments hammam complets avec le ghassoul en héros." },
+        { "title": "Applications cheveux et peau", "description": "Masques, argiles et soins pour salons et spas." },
+        { "title": "Export gros", "description": "Expédié dans notre service d’export de cosmétiques marocains." },
+        { "title": "Support marque blanche", "description": "Packaging sur mesure pour marques et distributeurs." },
+        { "title": "Conditionnement flexible", "description": "Des sacs vrac aux formats spa retail brandés." },
+        { "title": "Prêt à l’export", "description": "Flux d’export complet pour ingrédients argileux." }
+      ],
+      "detailsHeading": "Argile ghassoul marocaine — fournisseur rhassoul vrac",
+      "detailsParagraphs": [
+        "Le ghassoul est une pierre angulaire du spa et du capillaire marocains. Nous le fournissons en vrac aux grossistes, salons et marques de masques naturels.",
+        "Programmes d’export : documents, MOQ flexible et options marque blanche."
+      ],
+      "usageHeading": "Construire une ligne ghassoul en gros",
+      "usageSubtitle": "Masques, argiles, soins spa et retail hammam.",
+      "usageSteps": [
+        { "title": "Grade et pack", "description": "Poudre vrac ou pots retail marque blanche." },
+        { "title": "Associer les produits", "description": "Combiner avec savon noir et eau de rose en kits." },
+        { "title": "Obtenir un devis", "description": "Tarif gros au volume et confirmation du MOQ." },
+        { "title": "Développer l’export", "description": "Réassorts avec qualité de fabrication constante." }
+      ],
+      "faqIntro": "Argile ghassoul marocaine en gros pour spas, distributeurs et marques.",
+      "faq": [
+        { "question": "Puis-je mélanger le ghassoul à d’autres produits dans une commande ?", "answer": "Oui. Commandes flexibles sur soins, capillaires, huiles et bain marocain." },
+        { "question": "Puis-je commander ghassoul et savon noir ensemble ?", "answer": "Oui. Les commandes mixtes de produits de bain sont possibles." },
+        { "question": "La marque blanche est-elle disponible pour le ghassoul ?", "answer": "Oui. Packaging et branding pour lignes spa et retail." },
+        { "question": "Quels documents d’export sont inclus ?", "answer": "Documents préparés selon la destination et le produit." }
+      ],
+      "specs": [
+        { "label": "Origine", "value": "Maroc" },
+        { "label": "MOQ", "value": "À partir de 50 pièces" },
+        { "label": "Certification", "value": "Normes de fabrication ISO et GMP" },
+        { "label": "Services", "value": "Vrac, marque blanche, export" },
+        { "label": "Forme", "value": "Poudre d’argile naturelle" }
+      ],
+      "ctaTitle": "Ghassoul vrac pour votre activité ?",
+      "ctaDescription": "Contactez-nous pour le rhassoul en gros, la marque blanche et l’expédition internationale."
     },
     "spa-ritual-essentials": {
       "categoryLabel": "Essentiels du rituel spa",

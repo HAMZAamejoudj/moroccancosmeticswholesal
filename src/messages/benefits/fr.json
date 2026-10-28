@@ -1,0 +1,240 @@
+{
+  "ui": {
+    "home": "Accueil",
+    "benefits": "Bienfaits",
+    "heroTitle": "Bienfaits des matières premières cosmétiques marocaines",
+    "eyebrow": "Guides bienfaits",
+    "introTitle": "Bienfaits traditionnels et usages cosmétiques",
+    "intro": "Découvrez comment les ingrédients emblématiques du Maroc s’utilisent en rituels beauté, spas et formulations professionnelles — puis sourcez-les en gros auprès de notre fabrication et export.",
+    "viewProducts": "Voir tous les produits gros",
+    "ctaTitle": "Ces ingrédients en vrac ?",
+    "ctaDescription": "Parcourez notre catalogue de cosmétiques marocains en gros et nos services marque blanche, prêts à l’export.",
+    "readGuide": "Lire le guide",
+    "guideEyebrow": "Guide bienfaits",
+    "keyFacts": "Points clés",
+    "ingredientBenefits": "Bienfaits de l’ingrédient",
+    "benefitNumber": "Bienfait",
+    "wholesaleEyebrow": "Approvisionnement gros",
+    "viewProduct": "Voir le produit gros",
+    "getQuote": "Commander / devis"
+  },
+  "items": {
+    "pure-argan-oil-skin-hair": {
+      "title": "Bienfaits de l’huile d’argan pure pour la peau et les cheveux",
+      "cardTitle": "Huile d’argan bio",
+      "summary": "Hydrate la peau, soutient les routines anti-âge, apporte de la brillance capillaire et s’intègre aux lignes gros cosmétique et food-grade.",
+      "tags": ["Hydrate", "Fortifie les cheveux", "Anti-âge"],
+      "alt": "Bienfaits de l’huile d’argan pour la peau et les cheveux",
+      "introTitle": "Une huile marocaine polyvalente pour les formules cosmétiques",
+      "introParagraphs": [
+        "L’huile d’argan est l’un des ingrédients naturels les plus reconnus du Maroc. Riche en vitamine E et en acides gras essentiels, elle s’utilise dans les soins, le capillaire, les spas et la fabrication cosmétique premium.",
+        "Fabricant et grossiste marocain, nous fournissons l’huile d’argan pour l’export vrac, la marque blanche et les projets de formulation professionnels."
+      ],
+      "keyFacts": [
+        "Huile d’argan marocaine 100 % pure, usages cosmétique et alimentaire",
+        "Adaptée à la peau, aux cheveux, aux ongles et aux bases de formulation",
+        "Fabriquée et exportée selon des normes orientées ISO et GMP",
+        "Vrac, flacons retail et packaging marque blanche"
+      ],
+      "benefitsHeading": "Principaux bienfaits de l’huile d’argan",
+      "benefits": [
+        { "title": "Hydratation profonde", "description": "Soutient une hydratation durable pour les gammes visage, corps et peaux sèches, sans film lourd." },
+        { "title": "Soutien anti-âge", "description": "Très demandée dans les sérums et crèmes ciblant rides, élasticité et éclat." },
+        { "title": "Soin capillaire", "description": "Huiles, masques et soins salon pour plus de brillance, de douceur et de discipline." },
+        { "title": "Confort du cuir chevelu", "description": "Nourrit le cuir chevelu dans les formules capillaires pour sécheresse et inconfort." },
+        { "title": "Soins des mains et ongles", "description": "Courante dans les huiles cuticules et traitements intensifs des mains." },
+        { "title": "Flexibilité de formulation", "description": "Huiles visage, corps, sérums capillaires et assortiments beauté marocains." }
+      ],
+      "wholesaleTitle": "Huile d’argan en gros",
+      "wholesaleParagraph": "Achetez l’huile d’argan directement auprès de notre fabrication et export marocains. Demandez MOQ, documents et options marque blanche pour votre marché.",
+      "ctaTitle": "Besoin d’huile d’argan en gros ?",
+      "ctaDescription": "Consultez la fiche produit et demandez un devis pour le vrac."
+    },
+    "prickly-pear-seed-oil-benefits": {
+      "title": "Bienfaits de l’huile de pépins de figue de Barbarie",
+      "cardTitle": "Huile de figue de Barbarie",
+      "summary": "Huile anti-âge premium qui nourrit la peau, soutient les soins capillaires et valorise les catalogues luxe.",
+      "tags": ["Hydratation", "Anti-âge", "Soins luxe"],
+      "alt": "Bienfaits de l’huile de pépins de figue de Barbarie",
+      "introTitle": "L’huile anti-âge à haute valeur du Maroc",
+      "introParagraphs": [
+        "L’huile de pépins de figue de Barbarie est prisée pour sa texture légère et ses bienfaits intensifs. Ingrédient clé des huiles visage, sérums premium et soins spa professionnels.",
+        "Nous l’exportons en gros aux marques et distributeurs qui construisent des gammes naturelles à forte marge."
+      ],
+      "keyFacts": [
+        "Idéale pour sérums visage et formules anti-âge",
+        "Exportée pour marques cosmétiques et spas internationaux",
+        "Marque blanche et conditionnement vrac",
+        "MOQ dès 50 pièces selon le format"
+      ],
+      "benefitsHeading": "Bienfaits de l’huile de figue de Barbarie",
+      "benefits": [
+        { "title": "Hydratation intensive", "description": "Soutient la rétention d’humidité dans les soins visage et contour des yeux premium." },
+        { "title": "Positionnement anti-âge", "description": "Aide les marques à cibler fermeté, éclat et peaux matures." },
+        { "title": "Texture légère", "description": "Préférée pour les sérums à absorption rapide et toucher élégant." },
+        { "title": "Applications capillaires", "description": "Huiles et traitements luxe pour brillance et douceur." },
+        { "title": "Différenciation de marque", "description": "Ajoute une histoire marocaine à forte valeur aux catalogues gros." },
+        { "title": "Approvisionnement export", "description": "Documents et logistique pour la distribution mondiale." }
+      ],
+      "wholesaleTitle": "Figue de Barbarie en vrac",
+      "wholesaleParagraph": "Sourcer l’huile de pépins de figue de Barbarie auprès d’un fabricant marocain, avec tarifs gros et export.",
+      "ctaTitle": "Commander l’huile de figue de Barbarie en vrac ?",
+      "ctaDescription": "Consultez la fiche gros et contactez-nous pour un tarif."
+    },
+    "moroccan-black-soap-benefits": {
+      "title": "Bienfaits du savon noir marocain",
+      "cardTitle": "Savon noir marocain",
+      "summary": "Savon beldi nettoyant pour rituels hammam, gommage et programmes de soins corps en gros.",
+      "tags": ["Exfolie", "Hydrate", "Hammam"],
+      "alt": "Bienfaits du savon noir marocain",
+      "introTitle": "Savon beldi traditionnel pour spa et soins corps",
+      "introParagraphs": [
+        "Le savon noir est indispensable au rituel hammam. Il nettoie, prépare la peau au gommage et laisse un toucher lisse, en spa comme en retail.",
+        "Nous le fournissons en gros aux spas, hôtels, retailers beauté et marques bain en marque blanche."
+      ],
+      "keyFacts": [
+        "Ingrédient cœur hammam et bain marocain",
+        "S’associe au ghassoul et à l’eau de rose",
+        "Vrac et packaging marque blanche",
+        "Qualité gros constante, fabrication marocaine"
+      ],
+      "benefitsHeading": "Bienfaits du savon noir marocain",
+      "benefits": [
+        { "title": "Nettoyage en profondeur", "description": "Élimine les impuretés et prépare la peau au gommage kessa." },
+        { "title": "Authenticité du rituel", "description": "Soutient des expériences spa marocaines crédibles en hospitality et retail." },
+        { "title": "Formules corps", "description": "Gels douche, kits spa et cartes de soins." },
+        { "title": "Effet assouplissant", "description": "Laisse la peau douce dans les étapes hammam traditionnelles." },
+        { "title": "Bundling de catégorie", "description": "À combiner avec ghassoul et eau de rose dans les assortiments export." },
+        { "title": "Volumes gros", "description": "Volumes adaptés aux spas, chaînes et distributeurs." }
+      ],
+      "wholesaleTitle": "Savon noir marocain en gros",
+      "wholesaleParagraph": "Ajoutez le savon beldi à votre catalogue, en direct fabricant, avec support export.",
+      "ctaTitle": "Sourcer du savon noir en gros ?",
+      "ctaDescription": "Consultez la fiche savon noir et demandez un devis gros."
+    },
+    "moroccan-blue-nila-benefits": {
+      "title": "Bienfaits de la nila bleue marocaine",
+      "cardTitle": "Poudre de nila marocaine",
+      "summary": "Nila bleue traditionnelle pour rituels d’éclat, teint unifié et soins de beauté marocains authentiques.",
+      "tags": ["Éclat", "Clarté", "Rituels"],
+      "alt": "Bienfaits de la nila bleue marocaine",
+      "introTitle": "La nila marocaine dans les soins et rituels beauté",
+      "introParagraphs": [
+        "La poudre de nila bleue appartient au patrimoine beauté du Maroc. Elle s’utilise en masques et soins valorisés pour l’éclat et l’expérience rituelle.",
+        "Nous l’exportons en gros aux formulateurs, spas et marques de lignes marocaines authentiques."
+      ],
+      "keyFacts": [
+        "Masques et concepts de soins éclaircissants",
+        "Poudre vrac pour fabricants et distributeurs",
+        "Pots et kits marque blanche",
+        "Documents d’export selon les besoins"
+      ],
+      "benefitsHeading": "Bienfaits de la nila marocaine",
+      "benefits": [
+        { "title": "Rituels d’éclat", "description": "Soutient les masques traditionnels ciblant un teint lumineux." },
+        { "title": "Apparence de teint unifié", "description": "Prisée dans les routines visant clarté et glow." },
+        { "title": "Différenciation spa", "description": "Permet d’offrir des soins signature à la nila marocaine." },
+        { "title": "Usage formulation", "description": "Masques poudre, nettoyants et SKU spécialisés." },
+        { "title": "Authenticité culturelle", "description": "Un récit fort pour les marques de cosmétiques naturels marocains." },
+        { "title": "Export gros", "description": "Expédiez la nila à l’international avec notre flux d’export." }
+      ],
+      "wholesaleTitle": "Poudre de nila en gros",
+      "wholesaleParagraph": "Commandez la nila marocaine en vrac pour fabrication, retail ou collections marque blanche.",
+      "ctaTitle": "Besoin de nila en gros ?",
+      "ctaDescription": "Consultez la fiche nila et demandez un tarif à notre équipe."
+    },
+    "aker-fassi-benefits": {
+      "title": "Bienfaits de l’aker fassi",
+      "cardTitle": "Aker fassi",
+      "summary": "Teinte marocaine traditionnelle aux notes de coquelicot et grenade pour lèvres, joues et maquillage naturel.",
+      "tags": ["Coquelicot", "Grenade", "Teinte naturelle"],
+      "alt": "Bienfaits de l’aker fassi",
+      "introTitle": "Aker fassi authentique pour la beauté traditionnelle",
+      "introParagraphs": [
+        "L’aker fassi est élaboré à partir d’ingrédients marocains traditionnels pour les rituels de couleur lèvres et joues. Il relie les marques contemporaines aux pratiques héritées.",
+        "Nous le fournissons en gros pour poudres, kits et lignes beauté marque blanche."
+      ],
+      "keyFacts": [
+        "Ingrédient de teinte lèvres et joues",
+        "Poudre vrac pour marques et distributeurs",
+        "Support packaging marque blanche",
+        "Gamme d’export de cosmétiques naturels marocains"
+      ],
+      "benefitsHeading": "Bienfaits de l’aker fassi",
+      "benefits": [
+        { "title": "Histoire de couleur naturelle", "description": "Idéal pour le clean beauty et les lignes inspirées du patrimoine." },
+        { "title": "Lèvres et joues", "description": "Teintes, poudres et formats multi-usages." },
+        { "title": "Attrait retail", "description": "Ingrédient marocain reconnaissable en boutique beauté." },
+        { "title": "Kits rituels", "description": "À combiner avec nila, ghassoul ou eau de rose en coffrets." },
+        { "title": "Authenticité de marque", "description": "Soutient un positionnement marocain crédible à l’export." },
+        { "title": "Approvisionnement gros", "description": "Prix fabricant et options d’export." }
+      ],
+      "wholesaleTitle": "Aker fassi en gros",
+      "wholesaleParagraph": "Sourcer l’aker fassi pour votre marque ou réseau, avec MOQ flexible.",
+      "ctaTitle": "Commander l’aker fassi en vrac ?",
+      "ctaDescription": "Consultez la fiche gros et contactez-nous pour un devis."
+    },
+    "moroccan-rhassoul-clay-benefits": {
+      "title": "Bienfaits de l’argile rhassoul marocaine",
+      "cardTitle": "Argile ghassoul marocaine",
+      "summary": "Argile rhassoul détoxifiante pour teint éclatant, masques capillaires et catégories hammam en gros.",
+      "tags": ["Détoxifie", "Équilibre", "Affine"],
+      "alt": "Bienfaits de l’argile rhassoul marocaine",
+      "introTitle": "Argile rhassoul pour rituels peau et cheveux",
+      "introParagraphs": [
+        "Le ghassoul (rhassoul) s’utilise en masques visage, lavage capillaire et soins hammam. Sa richesse minérale en fait un incontournable des assortiments spa et salon.",
+        "Nous l’exportons en gros, en vrac et en marque blanche."
+      ],
+      "keyFacts": [
+        "Masques visage et rituels capillaires",
+        "Produit essentiel de catégorie hammam",
+        "Poudre vrac exportée du Maroc",
+        "S’associe au savon noir dans les programmes spa"
+      ],
+      "benefitsHeading": "Bienfaits de l’argile ghassoul marocaine",
+      "benefits": [
+        { "title": "Masques nettoyants", "description": "Masques argile qui laissent la peau fraîche et affinée." },
+        { "title": "Rituels capillaires", "description": "Lavage et traitements naturels pour cheveux." },
+        { "title": "Profil minéral", "description": "Positionnement d’argile terrestre marocaine authentique." },
+        { "title": "Cartes spa", "description": "Article standard pour hôtels, hammams et centres wellness." },
+        { "title": "Bundling produits", "description": "Construisez des catégories bain complètes pour le gros." },
+        { "title": "Approvisionnement export", "description": "Expédition internationale avec documents requis." }
+      ],
+      "wholesaleTitle": "Rhassoul en vrac",
+      "wholesaleParagraph": "Ajoutez le ghassoul à votre catalogue gros, avec support fabricant et logistique d’export.",
+      "ctaTitle": "Besoin de ghassoul en gros ?",
+      "ctaDescription": "Consultez la fiche ghassoul et demandez un tarif vrac."
+    },
+    "moroccan-rose-water-benefits": {
+      "title": "Bienfaits de l’eau de rose marocaine",
+      "cardTitle": "Eau de rose marocaine",
+      "summary": "Eau florale apaisante pour toniques, brumes, soins spa et formules douces.",
+      "tags": ["Apaise", "Tonifie", "Brume spa"],
+      "alt": "Bienfaits de l’eau de rose marocaine",
+      "introTitle": "L’eau de rose dans les soins et spas marocains",
+      "introParagraphs": [
+        "L’eau de rose marocaine s’utilise en toniques, brumes, nettoyants et rituels hammam. Article à fort rotation pour marques soins et fournisseurs spa.",
+        "Nous la fabriquons et l’exportons pour le gros, la marque blanche et l’hospitality."
+      ],
+      "keyFacts": [
+        "Base de brume et de tonique visage",
+        "Compagnon hammam et spa",
+        "Flacons marque blanche disponibles",
+        "Approvisionnement gros prêt à l’export"
+      ],
+      "benefitsHeading": "Bienfaits de l’eau de rose marocaine",
+      "benefits": [
+        { "title": "Apaisement cutané", "description": "Toniques et brumes doux pour le quotidien." },
+        { "title": "Fraîcheur spa", "description": "Soins et lignes d’accueil hospitality." },
+        { "title": "Base de formulation", "description": "S’intègre aux nettoyants, masques et produits aqueux." },
+        { "title": "Rotation retail", "description": "SKU fort pour boutiques beauté et e-commerce." },
+        { "title": "Duo hammam", "description": "S’associe au savon noir et au ghassoul en kits rituels." },
+        { "title": "Export gros", "description": "Formats vrac et étiquetés pour les marchés internationaux." }
+      ],
+      "wholesaleTitle": "Eau de rose marocaine en gros",
+      "wholesaleParagraph": "Commandez l’eau de rose en vrac ou en marque blanche auprès de notre équipe export.",
+      "ctaTitle": "Sourcer de l’eau de rose en gros ?",
+      "ctaDescription": "Consultez les spécifications et demandez un devis en ligne."
+    }
+  }
+}

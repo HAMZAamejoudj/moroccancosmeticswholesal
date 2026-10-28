@@ -1,0 +1,133 @@
+{
+  "heroTitle": "Frequently asked questions",
+  "home": "Home",
+  "navLabel": "FAQ",
+  "eyebrow": "Help center",
+  "title": "Answers for wholesale buyers",
+  "intro": "MOQ, private label, export, and product quality — common questions from distributors, spa suppliers, and brands sourcing Moroccan cosmetics from our Marrakesh operation.",
+  "categoriesAria": "FAQ categories",
+  "stillHaveQuestion": "Still have a question?",
+  "contactTeam": "Contact our wholesale team",
+  "orMessage": "or message us on",
+  "whatsapp": "WhatsApp",
+  "ctaTitle": "Ready to place a wholesale or private label order?",
+  "ctaDescription": "Request the catalog with MOQ details, samples, and export terms for your market.",
+  "sections": [
+    {
+      "id": "general",
+      "title": "General",
+      "description": "Who we are and how we work with B2B buyers.",
+      "items": [
+        {
+          "question": "What is Moroccan Cosmetics Wholesale?",
+          "answer": "We are a Moroccan cosmetics manufacturer, wholesaler, and exporter based in Marrakesh. We supply bulk products, private label programs, and export services to distributors, spas, hotels, and beauty brands worldwide."
+        },
+        {
+          "question": "Do you sell to consumers on this website?",
+          "answer": "This site is focused on wholesale and professional buyers. Retail consumers can explore our partner catalog at moroccanorganica.com; bulk and private label inquiries are handled through our wholesale contact channels."
+        },
+        {
+          "question": "Where is your factory located?",
+          "answer": "Our operations are in Marrakesh, Morocco — Lot 377 N°3/6 Sidi Ghanem industrial zone. This is where manufacturing, packing, and export preparation are coordinated."
+        },
+        {
+          "question": "How do I request the wholesale catalog?",
+          "answer": "Use the catalog link or WhatsApp button on this site to reach our team. We share product lists, MOQ guidance, and quotation options for your market."
+        }
+      ]
+    },
+    {
+      "id": "wholesale",
+      "title": "Wholesale & MOQ",
+      "description": "Ordering volumes, pricing, and samples.",
+      "items": [
+        {
+          "question": "What is the minimum order quantity (MOQ)?",
+          "answer": "MOQ typically starts at 50 pieces depending on product type, packaging format, and label requirements. Mixed orders may be possible — confirm details when you request a quote."
+        },
+        {
+          "question": "Can I order multiple products in one shipment?",
+          "answer": "Yes. Distributors often combine oils, hammam products, and spa SKUs in one export. We help structure carton mixes to match your catalog plan."
+        },
+        {
+          "question": "Are samples available before bulk orders?",
+          "answer": "Sample arrangements can be discussed when you contact us for the catalog and quotation. Samples help approve texture, scent, and packaging before production runs."
+        },
+        {
+          "question": "What payment methods do you accept?",
+          "answer": "We work with international B2B payment options including bank transfer and commonly used trade methods. Payment terms are confirmed per order and buyer profile."
+        }
+      ]
+    },
+    {
+      "id": "private-label",
+      "title": "Private label",
+      "description": "Branding, packaging, and custom collections.",
+      "items": [
+        {
+          "question": "What is private label Moroccan cosmetics manufacturing?",
+          "answer": "Private label means we produce Moroccan cosmetics under your brand — with your packaging and identity — while you use our factory, ingredients, and export infrastructure in Marrakesh."
+        },
+        {
+          "question": "Which products can I private label?",
+          "answer": "Most of our wholesale range is available for private label, including argan oil, prickly pear seed oil, black soap, ghassoul clay, nila powder, aker fassi, rose water, and spa ritual sets."
+        },
+        {
+          "question": "Can you help with labels and regulatory documents?",
+          "answer": "We support label application, product specifications, and export documentation. Share your target market rules so we can align ingredient lists and compliance paperwork."
+        },
+        {
+          "question": "How long does a private label order take?",
+          "answer": "Lead time depends on SKU, packaging, and print approval. Share your launch date in the brief so we can propose a realistic production and shipping schedule."
+        }
+      ]
+    },
+    {
+      "id": "export",
+      "title": "Export & shipping",
+      "description": "Documentation, carriers, and international delivery.",
+      "items": [
+        {
+          "question": "Do you ship internationally?",
+          "answer": "Yes. We export to Europe, the Americas, Africa, the Gulf, and other regions with documentation and carrier coordination."
+        },
+        {
+          "question": "Which shipping partners do you use?",
+          "answer": "We work with major international carriers and freight options. Available partners are listed in the site footer (DHL, FedEx, UPS, Aramex, and others depending on route)."
+        },
+        {
+          "question": "What export documents are provided?",
+          "answer": "Typical shipments include commercial invoice and packing list aligned to carton contents. Additional certificates or specifications can be discussed for your import requirements."
+        },
+        {
+          "question": "Can you ship private label goods to my warehouse or 3PL?",
+          "answer": "Yes. Provide delivery address, contact, and any third-party logistics instructions when confirming your order."
+        }
+      ]
+    },
+    {
+      "id": "quality",
+      "title": "Quality & products",
+      "description": "Standards, ingredients, and product scope.",
+      "items": [
+        {
+          "question": "Are you ISO certified and GMP compliant?",
+          "answer": "Our manufacturing orientation follows ISO certification and GMP compliant processes for safe, consistent cosmetic production intended for export markets."
+        },
+        {
+          "question": "Do you offer cosmetic and food-grade argan oil?",
+          "answer": "Yes. Argan oil is available for cosmetic formulations and food-grade applications. Specify your intended use when requesting a quote."
+        },
+        {
+          "question": "What product categories do you manufacture?",
+          "answer": "Skincare oils, haircare oils, Moroccan black soap, ghassoul clay, floral waters, traditional powders (nila, aker fassi), and bundled spa ritual lines."
+        },
+        {
+          "question": "Can I see product detail pages before ordering?",
+          "answer": "Yes. Browse our Products and Benefits sections for specifications, usage context, and links to request wholesale pricing per SKU."
+        }
+      ]
+    }
+  ]
+}
+

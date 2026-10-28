@@ -19,7 +19,7 @@ export async function TwoColumnFaq({
   items,
   idPrefix = "faq",
 }: {
-  items: TwoColumnFaqItem[];
+  items: readonly TwoColumnFaqItem[];
   idPrefix?: string;
 }) {
   const locale = await getLocale();

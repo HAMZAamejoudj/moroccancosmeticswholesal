@@ -12,6 +12,8 @@ import { catalogProducts } from "@/lib/products";
 import { getLocalizedFullProduct } from "@/lib/products/localize";
 import { entityMetadata } from "@/lib/seo";
 
+export const instant = false;
+
 type ProductPageProps = {
   params: Promise<{ locale: string; slug: string }>;
 };

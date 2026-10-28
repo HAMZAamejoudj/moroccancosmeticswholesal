@@ -1,4 +1,6 @@
 import type { Metadata } from "next";
+import { hasLocale } from "next-intl";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import { pageMetadata } from "@/lib/seo";
 import { FaqSections } from "@/components/faq/faq-sections";
 import { PageHero } from "@/components/products/page-hero";
@@ -7,8 +9,11 @@ import { SectionShell } from "@/components/section-shell";
 import { Eyebrow } from "@/components/ui/eyebrow";
 import { SiteLayout } from "@/components/site-layout";
 import { Link } from "@/i18n/navigation";
-import { faqSections } from "@/lib/faq";
+import { routing } from "@/i18n/routing";
+import type { FaqSection } from "@/lib/faq";
 import { SITE } from "@/lib/constants";
+
+export const instant = false;
 
 export async function generateMetadata({
   params,
@@ -19,36 +24,48 @@ export async function generateMetadata({
   return pageMetadata(locale, "faq");
 }
 
-const faqQuickLinks = faqSections.map((section) => ({
-  label: section.title,
-  href: `#${section.id}`,
-}));
+export default async function FaqPage({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
+  if (!hasLocale(routing.locales, locale)) {
+    return null;
+  }
+  setRequestLocale(locale);
 
-export default function FaqPage() {
+  const t = await getTranslations("faq");
+  const sections = t.raw("sections") as FaqSection[];
+
+  const faqQuickLinks = sections.map((section) => ({
+    label: section.title,
+    href: `#${section.id}`,
+  }));
+
   return (
     <SiteLayout>
       <PageHero
-        title="Frequently asked questions"
+        title={t("heroTitle")}
         breadcrumbs={[
-          { label: "Home", href: "/" },
-          { label: "FAQ" },
+          { label: t("home"), href: "/" },
+          { label: t("navLabel") },
         ]}
       />
 
       <SectionShell>
         <div className="mx-auto mb-12 max-w-3xl text-center">
-          <Eyebrow className="text-center">Help center</Eyebrow>
+          <Eyebrow className="text-center">{t("eyebrow")}</Eyebrow>
           <h2 className="font-heading mb-4 text-3xl font-bold tracking-tight sm:text-4xl">
-            Answers for wholesale buyers
+            {t("title")}
           </h2>
           <p className="text-muted-foreground text-lg">
-            MOQ, private label, export, and product quality — common questions from distributors,
-            spa suppliers, and brands sourcing Moroccan cosmetics from our Marrakesh operation.
+            {t("intro")}
           </p>
         </div>
 
         <nav
-          aria-label="FAQ categories"
+          aria-label={t("categoriesAria")}
           className="mb-12 flex flex-wrap justify-center gap-2"
         >
           {faqQuickLinks.map((link) => (
@@ -62,29 +79,29 @@ export default function FaqPage() {
           ))}
         </nav>
 
-        <FaqSections sections={faqSections} />
+        <FaqSections sections={sections} />
 
         <p className="text-muted-foreground mx-auto mt-12 max-w-2xl text-center text-sm leading-relaxed">
-          Still have a question?{" "}
+          {t("stillHaveQuestion")}{" "}
           <Link href="/contact" className="font-semibold text-primary hover:underline">
-            Contact our wholesale team
+            {t("contactTeam")}
           </Link>{" "}
-          or message us on{" "}
+          {t("orMessage")}{" "}
           <a
             href={SITE.whatsappUrl}
             target="_blank"
             rel="noopener noreferrer"
             className="font-semibold text-primary hover:underline"
           >
-            WhatsApp
+            {t("whatsapp")}
           </a>
           .
         </p>
       </SectionShell>
 
       <CtaSection
-        title="Ready to place a wholesale or private label order?"
-        description="Request the catalog with MOQ details, samples, and export terms for your market."
+        title={t("ctaTitle")}
+        description={t("ctaDescription")}
       />
     </SiteLayout>
   );

@@ -1,0 +1,103 @@
+{
+  "heroTitle": "Cosmétiques marocains en marque blanche",
+  "home": "Accueil",
+  "navLabel": "Marque blanche",
+  "introEyebrow": "Fabrication marque blanche",
+  "introTitle": "Lancez votre marque beauté marocaine avec notre usine",
+  "introParagraphs": [
+    "Moroccan Cosmetics Wholesale est fabricant, grossiste et exportateur à Marrakech. Nous aidons marques, spas et distributeurs à créer des lignes marque blanche avec des ingrédients marocains authentiques et des normes d’export.",
+    "D’un SKU phare à une collection hammam et soins complète, nous allions savoir-faire traditionnel et production moderne — pour vendre sous votre nom, sans construire une usine."
+  ],
+  "highlights": [
+    "MOQ dès 50 pièces selon le produit et le packaging",
+    "Huile d’argan, figue de Barbarie, savon noir, ghassoul, nila, aker fassi, eau de rose et kits spa",
+    "Tarifs gros, approvisionnement direct fabricant",
+    "Marque blanche pour spas, hôtels, e-commerce et distributeurs"
+  ],
+  "badge": "Formule · Packaging · Marque · Export",
+  "imageAlt": "Fabrication et packaging de cosmétiques marocains en marque blanche",
+  "servicesEyebrow": "Notre offre",
+  "servicesTitle": "Services marque blanche de bout en bout",
+  "servicesIntro": "Un partenaire pour la fabrication, le branding, le packaging et l’export — pensé pour grossistes et marques beauté en croissance.",
+  "services": {
+    "branding": {
+      "title": "Branding sur mesure",
+      "description": "Votre logo, vos étiquettes et votre histoire de marque sur des cosmétiques marocains fabriqués pour votre marché."
+    },
+    "packaging": {
+      "title": "Options de packaging",
+      "description": "Flacons, pots, sachets et kits spa — formats retail ou vrac pour votre propre ligne de remplissage."
+    },
+    "formula": {
+      "title": "Support formulation",
+      "description": "Partez de bases marocaines éprouvées ou adaptez ingrédients et concentrations avec notre équipe."
+    },
+    "quality": {
+      "title": "Qualité et conformité",
+      "description": "Production orientée ISO et GMP, avec documents adaptés à l’export et au retail."
+    },
+    "logistics": {
+      "title": "Logistique d’export",
+      "description": "Fret international, documents douaniers et coordination avec les principaux transporteurs."
+    },
+    "markets": {
+      "title": "Marchés mondiaux",
+      "description": "Programmes pour l’Europe, les Amériques, l’Afrique et le Golfe — distributeurs de lignes beauté marocaines."
+    }
+  },
+  "processEyebrow": "Comment ça marche",
+  "processTitle": "Du brief à l’expédition sous votre marque",
+  "startProject": "Démarrer votre projet marque blanche",
+  "browseCatalog": "Parcourir le catalogue",
+  "process": {
+    "brief": {
+      "title": "Partagez votre brief",
+      "description": "Idée produit, marché cible, préférences de packaging et volumes estimés."
+    },
+    "select": {
+      "title": "Choisir produits et formats",
+      "description": "Huiles, argiles, savons, eaux, poudres — ou un assortiment sur mesure."
+    },
+    "branding": {
+      "title": "Branding et échantillons",
+      "description": "Nous alignons étiquettes, visuels et spécifications. Échantillons possibles avant production."
+    },
+    "production": {
+      "title": "Production et contrôle qualité",
+      "description": "Fabrication au Maroc, contrôles qualité et préparation à l’expédition gros ou retail."
+    },
+    "export": {
+      "title": "Export et livraison",
+      "description": "Documents, listes de colisage et envoi vers votre entrepôt ou partenaire de distribution."
+    }
+  },
+  "productsEyebrow": "Populaires en marque blanche",
+  "productsTitle": "Produits marocains prêts pour votre marque",
+  "productsIntro": "Ces SKU gros sont souvent mis en marque blanche pour le retail, le spa et l’e-commerce.",
+  "faqEyebrow": "FAQ",
+  "faqTitle": "Questions marque blanche",
+  "faq": [
+    {
+      "question": "Qu’est-ce que la fabrication cosmétique marocaine en marque blanche ?",
+      "answer": "La marque blanche signifie que nous produisons des cosmétiques marocains sous votre marque — packaging et identité — tout en bénéficiant de notre usine, nos ingrédients et notre export à Marrakech."
+    },
+    {
+      "question": "Quels produits puis-je mettre en marque blanche ?",
+      "answer": "La plupart de notre gamme gros est disponible : huile d’argan, figue de Barbarie, savon noir, ghassoul, nila, aker fassi, eau de rose et sets spa."
+    },
+    {
+      "question": "Quel est le minimum de commande ?",
+      "answer": "Le MOQ commence généralement à 50 pièces selon le produit, le format et le tirage d’étiquettes. Contactez-nous pour votre mix SKU."
+    },
+    {
+      "question": "Aidez-vous sur le design d’étiquette et les documents réglementaires ?",
+      "answer": "Nous accompagnons l’application d’étiquettes, les spécifications produit et les documents d’export. Indiquez votre marché pour aligner listes d’ingrédients et conformité."
+    },
+    {
+      "question": "Expédiez-vous les commandes marque blanche à l’international ?",
+      "answer": "Oui. Nous exportons dans le monde entier avec des partenaires de transport établis et les documents nécessaires au dédouanement."
+    }
+  ],
+  "ctaTitle": "Prêt à construire votre marque de cosmétiques marocains ?",
+  "ctaDescription": "Demandez le catalogue, envoyez votre brief marque blanche, ou renseignez-vous sur le MOQ et les échantillons. Notre équipe à Marrakech répond vite aux acheteurs internationaux."
+}
