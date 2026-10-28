@@ -2,6 +2,7 @@ import type { ReactNode } from "react";
 import { getTranslations } from "next-intl/server";
 import { FooterLogoCarousel } from "@/components/footer-logo-carousel";
 import { SiteLogo } from "@/components/site-logo";
+import { WhatsAppIcon } from "@/components/whatsapp-floating-button";
 import { Link } from "@/i18n/navigation";
 import { SITE, SOCIAL } from "@/lib/constants";
 import {
@@ -82,8 +83,8 @@ export async function SiteFooter() {
     <footer id="contact" className="border-t border-border bg-background">
       <FooterTrustStrip />
       <div className="container mx-auto px-4 py-14 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-1 gap-10 sm:grid-cols-2 lg:grid-cols-6 lg:gap-8">
-          <div className="sm:col-span-2 lg:col-span-2">
+        <div className="grid grid-cols-1 gap-10 sm:grid-cols-2 lg:grid-cols-12 lg:gap-8">
+          <div className="sm:col-span-2 lg:col-span-3">
             <SiteLogo className="mb-4 h-20" />
             <p className="text-muted-foreground mb-6 max-w-md text-sm leading-relaxed">{t("blurb")}</p>
             <div className="flex gap-3">
@@ -108,42 +109,70 @@ export async function SiteFooter() {
             </div>
           </div>
 
-          <FooterLinkColumn
-            title={t("company")}
-            links={footerCompanyLinks.map((link) => ({
-              href: link.href,
-              label: t(`companyLinks.${link.key}`),
-            }))}
-          />
-          <FooterLinkColumn
-            title={t("products")}
-            links={footerProductLinks.map((link) => ({
-              href: link.href,
-              label: t(`productLinks.${link.key}`),
-            }))}
-          />
-          <FooterLinkColumn
-            title={t("services")}
-            links={footerServiceLinks.map((link) => ({
-              href: link.href,
-              label: t(`serviceLinks.${link.key}`),
-            }))}
-          />
+          <div className="lg:col-span-2">
+            <FooterLinkColumn
+              title={t("company")}
+              links={footerCompanyLinks.map((link) => ({
+                href: link.href,
+                label: t(`companyLinks.${link.key}`),
+              }))}
+            />
+          </div>
+          <div className="lg:col-span-2">
+            <FooterLinkColumn
+              title={t("products")}
+              links={footerProductLinks.map((link) => ({
+                href: link.href,
+                label: t(`productLinks.${link.key}`),
+              }))}
+            />
+          </div>
+          <div className="lg:col-span-2">
+            <FooterLinkColumn
+              title={t("services")}
+              links={footerServiceLinks.map((link) => ({
+                href: link.href,
+                label: t(`serviceLinks.${link.key}`),
+              }))}
+            />
+          </div>
 
-          <div className="flex flex-col gap-4">
+          <div className="flex flex-col gap-4 sm:col-span-2 lg:col-span-3 min-w-0">
             <h3 className="font-heading text-lg font-semibold">{t("contact")}</h3>
-            <ul className="text-muted-foreground flex flex-col gap-2 text-sm">
-              <li dir="ltr" className="inline-block">
+            <ul className="text-muted-foreground flex flex-col gap-3 text-sm min-w-0">
+              <li dir="ltr" className="leading-relaxed">
                 {SITE.address}
               </li>
               <li>
-                <a href={SITE.phoneHref} dir="ltr" className="inline-block hover:text-primary transition-colors">
-                  {SITE.phone}
+                <a
+                  href={SITE.whatsappUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  dir="ltr"
+                  className="inline-flex items-center gap-2 hover:text-primary transition-colors"
+                >
+                  <WhatsAppIcon className="h-4 w-4 text-[#25D366] shrink-0" />
+                  <span>{SITE.phone}</span>
                 </a>
               </li>
-              <li>
-                <a href={`mailto:${SITE.email}`} dir="ltr" className="inline-block hover:text-primary transition-colors">
+              <li className="min-w-0">
+                <a
+                  href={`mailto:${SITE.email}`}
+                  dir="ltr"
+                  className="block break-all hover:text-primary transition-colors"
+                >
                   {SITE.email}
+                </a>
+              </li>
+              <li className="pt-1">
+                <a
+                  href={SITE.whatsappUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-2 rounded-full bg-[#25D366] px-4 py-1.5 text-xs font-semibold text-white transition-transform hover:scale-105 active:scale-95 shadow-sm"
+                >
+                  <WhatsAppIcon className="h-4 w-4 shrink-0 fill-current" />
+                  <span>WhatsApp</span>
                 </a>
               </li>
             </ul>

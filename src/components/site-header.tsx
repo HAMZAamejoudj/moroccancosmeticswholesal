@@ -56,14 +56,6 @@ export function SiteHeader() {
 
           <div className="hidden items-center gap-3 lg:flex">
             <LocaleSwitcher />
-            <a
-              href={SITE.whatsappUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex h-10 items-center justify-center rounded-full bg-primary px-5 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90"
-            >
-              {t("catalogCta")}
-            </a>
           </div>
 
           <div className="flex items-center gap-2 lg:hidden">
@@ -90,14 +82,6 @@ export function SiteHeader() {
                       {t(link.key)}
                     </Link>
                   ))}
-                  <a
-                    href={SITE.whatsappUrl}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="mt-4 inline-flex h-11 items-center justify-center rounded-full bg-primary px-4 text-sm font-semibold text-primary-foreground"
-                  >
-                    {t("catalogCta")}
-                  </a>
                 </nav>
               </SheetContent>
             </Sheet>

@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { hasLocale, NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
 import { Toaster } from "@/components/ui/sonner";
+import { WhatsAppFloatingButton } from "@/components/whatsapp-floating-button";
 import { localeDir } from "@/i18n/config";
 import { routing } from "@/i18n/routing";
 
@@ -96,6 +97,7 @@ export default async function LocaleLayout({ children, params }: LocaleLayoutPro
         <NextIntlClientProvider messages={messages}>
           {children}
           <Toaster richColors closeButton position="top-right" />
+          <WhatsAppFloatingButton />
         </NextIntlClientProvider>
       </body>
     </html>
