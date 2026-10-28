@@ -1,0 +1,294 @@
+{
+  "ui": {
+    "home": "Accueil",
+    "products": "Produits",
+    "viewDetails": "Voir les détails",
+    "getQuote": "Demander un devis",
+    "requestQuote": "Demander un devis",
+    "privateLabel": "Marque blanche",
+    "whatsapp": "WhatsApp",
+    "keyBenefits": "Atouts clés",
+    "whyWholesalers": "Pourquoi les grossistes choisissent ce produit",
+    "productDetails": "Détails produit",
+    "faq": "FAQ",
+    "faqHeading": "Questions fréquentes",
+    "related": "Produits associés",
+    "notFound": "Produit introuvable",
+    "trustIso": "Certifié ISO & GMP",
+    "trustNatural": "Ingrédients 100 % naturels",
+    "trustExport": "Export mondial",
+    "trustMoq": "MOQ 50 pcs — marque blanche"
+  },
+  "items": {
+    "cosmetic-food-argan-oil": {
+      "categoryLabel": "Huile d’argan — vrac",
+      "title": "Huile d’argan cosmétique et alimentaire en gros",
+      "summary": "L’or liquide marocain pour marques cosmétiques, partenaires food-grade, spas et distributeurs.",
+      "alt": "Huile d’argan marocaine authentique, grades cosmétique et alimentaire",
+      "heroSubtitle": "Huile d’argan vierge de fabricants marocains",
+      "description": "Notre huile d’argan est sourcée et transformée au Maroc pour des usages cosmétiques et culinaires. Fabricant et grossiste, nous livrons des lots constants avec documents d’export, conditionnements flexibles et options marque blanche.",
+      "highlights": [
+        "Approvisionnement cosmétique et alimentaire",
+        "Riche en vitamine E et acides gras essentiels",
+        "Idéale pour sérums, soins capillaires et formules",
+        "Flacons, fûts et vrac en marque blanche",
+        "Documents d’export et support laboratoire"
+      ],
+      "benefitsIntro": "Huile d’argan marocaine pressée à froid, qualité gros constante — idéale pour formules cosmétiques, capillaires, spas et programmes d’export.",
+      "benefits": [
+        { "title": "Hydratation profonde", "description": "Soutient la barrière cutanée et la rétention d’humidité pour les gammes visage, corps et cheveux." },
+        { "title": "Applications anti-âge", "description": "Très demandée dans les formules premium ciblant élasticité, éclat et peaux matures." },
+        { "title": "Gros multi-usages", "description": "Soins, capillaires, rituels spa et gammes culinaires." },
+        { "title": "Prix fabricant", "description": "Achat à la source, tarifs gros compétitifs et MOQ flexible." },
+        { "title": "Réparation et brillance capillaire", "description": "Sérums, après-shampoings et soins salon exportés du Maroc." },
+        { "title": "Prêt à l’export", "description": "Documentation, analyses et logistique pour acheteurs internationaux." }
+      ],
+      "detailsHeading": "Huile d’argan marocaine 100 % pure — vente en gros",
+      "detailsParagraphs": [
+        "L’huile d’argan reste l’ingrédient phare des cosmétiques naturels marocains. Nous fournissons les grades cosmétique et alimentaire avec documents d’export pour distributeurs et marques.",
+        "Fûts vrac, flacons retail et packaging marque blanche. Chaque commande suit des normes de qualité approuvées pour l’export."
+      ],
+      "detailsNote": "Conservation : lieu frais et sec, à l’abri de la lumière. La DLUO dépend du grade et du packaging — précisée avec le devis.",
+      "usageHeading": "Intégrer l’huile d’argan à votre gamme",
+      "usageSubtitle": "Soins, capillaires, spas et formulations gros.",
+      "usageSteps": [
+        { "title": "Choisir le grade", "description": "Usage cosmétique ou alimentaire, format et documents du marché cible." },
+        { "title": "Demander un devis", "description": "Indiquez volume, packaging et destination pour MOQ et tarif gros." },
+        { "title": "Échantillon et validation", "description": "Validez qualité et documents avant production vrac ou marque blanche." },
+        { "title": "Export et volume", "description": "Nous préparons documents, logistique et réassorts pour un partenariat durable." }
+      ],
+      "faqIntro": "Huile d’argan en gros, directement depuis notre fabrication et export marocains. Contactez-nous pour MOQ, échantillons et marque blanche.",
+      "faq": [
+        { "question": "Puis-je commander de l’huile d’argan cosmétique et alimentaire ?", "answer": "Oui. Nous fournissons les deux grades selon votre marché et vos exigences documentaires." },
+        { "question": "Quel est le MOQ pour l’huile d’argan en gros ?", "answer": "À partir de 50 pièces selon le conditionnement et la spécification." },
+        { "question": "Comment demander un devis vrac ?", "answer": "Via le catalogue ou WhatsApp. Indiquez quantité, packaging, grade et destination." },
+        { "question": "La marque blanche est-elle disponible ?", "answer": "Oui. Flacons, étiquettes et packaging de marque, avec MOQ compétitif." },
+        { "question": "Quels documents d’export fournissez-vous ?", "answer": "Facture commerciale, certificat d’origine et analyses selon les besoins de la commande." }
+      ],
+      "specs": [
+        { "label": "Origine", "value": "Maroc" },
+        { "label": "MOQ", "value": "À partir de 50 pièces" },
+        { "label": "Certification", "value": "Normes de fabrication ISO et GMP" },
+        { "label": "Services", "value": "Vrac, marque blanche, export" },
+        { "label": "Applications", "value": "Peau, cheveux, ongles, culinaire (food grade)" },
+        { "label": "Conditionnement", "value": "Flacons, contenants vrac, marque blanche" }
+      ],
+      "ctaTitle": "Vous cherchez un grossiste d’huile d’argan fiable ?",
+      "ctaDescription": "Demandez un devis pour le vrac, les flacons marque blanche ou l’export. Réponse rapide aux distributeurs et aux marques."
+    },
+    "prickly-pear-seed-oil": {
+      "categoryLabel": "Huile de figue de Barbarie",
+      "title": "Huile de pépins de figue de Barbarie en gros",
+      "summary": "Huile anti-âge haute valeur pour soins luxe, sérums et formulations professionnelles.",
+      "alt": "Huile de pépins de figue de Barbarie aux propriétés anti-âge",
+      "heroSubtitle": "Huile de pépins de cactus pour soins premium",
+      "description": "L’huile de pépins de figue de Barbarie est l’une des plus recherchées pour les soins anti-âge. Nous la fabriquons et l’exportons pour marques, distributeurs et projets marque blanche.",
+      "highlights": [
+        "Très prisée dans les formules anti-âge premium",
+        "Texture légère, adaptée aux sérums visage",
+        "Qualité export, support fabricant",
+        "Marque blanche et packaging sur mesure",
+        "Vrac pour grossistes et distributeurs"
+      ],
+      "benefitsIntro": "Huile de figue de Barbarie premium pour soins anti-âge luxe — fabriquée et exportée pour grossistes et marques blanches.",
+      "benefits": [
+        { "title": "Focus anti-âge", "description": "Crèmes et sérums haut de gamme ciblant ridules, fermeté et renouvellement." },
+        { "title": "Positionnement luxe", "description": "Idéale pour des collections naturelles marocaines premium." },
+        { "title": "Facile à formuler", "description": "Huiles visage, soins de nuit et produits spa professionnels." },
+        { "title": "Export mondial", "description": "Expédiée avec documents gros pour les marchés internationaux." },
+        { "title": "Conditionnement flexible", "description": "Du format échantillon au vrac pour marques en croissance." },
+        { "title": "Production certifiée", "description": "Contrôles de fabrication orientés ISO et GMP." }
+      ],
+      "detailsHeading": "Huile de pépins de figue de Barbarie — gros",
+      "detailsParagraphs": [
+        "C’est l’une des huiles les plus valorisées de la beauté marocaine. Nous la fournissons aux fabricants, spas et distributeurs de catalogues premium.",
+        "Packaging flexible, marque blanche et export vers l’Europe, les Amériques, l’Afrique et le Golfe."
+      ],
+      "detailsNote": "Conserver fermé, à l’abri de la chaleur et du soleil. Spécifications de lot sur demande.",
+      "usageHeading": "Lancer des produits à l’huile de figue de Barbarie",
+      "usageSubtitle": "Sérums, huiles visage et lignes anti-âge en gros.",
+      "usageSteps": [
+        { "title": "Choisir le format", "description": "Vrac, format retail ou packaging marque blanche." },
+        { "title": "Confirmer le MOQ", "description": "Nous alignons le volume sur votre lancement ou réassort." },
+        { "title": "Valider la qualité", "description": "Échantillons et documents avant confirmation vrac." },
+        { "title": "Expédier", "description": "Logistique export depuis notre opération marocaine." }
+      ],
+      "faqIntro": "Huile de pépins de figue de Barbarie en gros, fabricant, grossiste et exportateur marocain.",
+      "faq": [
+        { "question": "Convient-elle aux sérums marque blanche ?", "answer": "Oui. Très utilisée en sérums visage, huiles anti-âge et gammes premium." },
+        { "question": "Proposez-vous des échantillons avant le vrac ?", "answer": "Les échantillons se discutent lors de la demande de catalogue et de devis." },
+        { "question": "Quel est le MOQ ?", "answer": "À partir de 50 pièces selon le packaging et la spécification." },
+        { "question": "Puis-je l’utiliser en sérums marque blanche ?", "answer": "Oui. Elle entre dans de nombreuses collections anti-âge et huiles visage." },
+        { "question": "Livrez-vous à l’international ?", "answer": "Oui. Export avec documents et support logistique." }
+      ],
+      "specs": [
+        { "label": "Origine", "value": "Maroc" },
+        { "label": "MOQ", "value": "À partir de 50 pièces" },
+        { "label": "Certification", "value": "Normes de fabrication ISO et GMP" },
+        { "label": "Services", "value": "Vrac, marque blanche, export" },
+        { "label": "Profil", "value": "Huile visage anti-âge premium" }
+      ],
+      "ctaTitle": "Besoin d’huile de figue de Barbarie en vrac ?",
+      "ctaDescription": "Obtenez tarifs gros et détails d’export pour votre marque ou votre distribution."
+    },
+    "moroccan-nila-powder": {
+      "categoryLabel": "Poudre de nila marocaine",
+      "title": "Poudre de nila marocaine en gros",
+      "summary": "Poudre bleue éclaircissante pour teint éclatant, rituels de beauté et formulations naturelles.",
+      "alt": "Poudre de nila, pigment bleu marocain traditionnel pour éclaircir la peau",
+      "heroSubtitle": "Nila marocaine traditionnelle pour peau et cheveux",
+      "description": "La nila est un ingrédient distinctif des masques, soins éclaircissants et rituels traditionnels. Nous la fournissons en vrac aux grossistes, fabricants et partenaires d’export.",
+      "highlights": [
+        "Ingrédient éclaircissant marocain traditionnel",
+        "Masques visage et rituels de beauté",
+        "Vrac pour distributeurs et formulateurs",
+        "Adaptée aux gammes spa et salon",
+        "Options marque blanche"
+      ],
+      "benefitsIntro": "Poudre de nila traditionnelle pour rituels d’éclat, masques et gros beauté naturelle.",
+      "benefits": [
+        { "title": "Héritage rituel", "description": "Pour des marques qui proposent une expérience beauté marocaine authentique." },
+        { "title": "Polyvalence soins", "description": "Masques, nettoyants et concepts éclaircissants." },
+        { "title": "Conditionnement gros", "description": "Volumes flexibles, boutiques comme grands distributeurs." },
+        { "title": "Positionnement naturel", "description": "S’intègre aux catalogues 100 % marocains d’export." },
+        { "title": "Packaging flexible", "description": "Vrac et formats étiquetés selon le canal." },
+        { "title": "Prêt à l’export", "description": "Expédition internationale des poudres cosmétiques." }
+      ],
+      "detailsHeading": "Poudre de nila marocaine — fournisseur gros",
+      "detailsParagraphs": [
+        "La nila est une poudre signature des rituels et formulations spécialisées. Nous l’exportons vers grossistes, formulateurs et marques blanches.",
+        "Nos standards de fabrication assurent des lots constants pour le professionnel et le retail."
+      ],
+      "usageHeading": "Utiliser la nila en développement gros",
+      "usageSubtitle": "Masques, soins éclaircissants et formules traditionnelles.",
+      "usageSteps": [
+        { "title": "Définir l’usage", "description": "Soin spa, masque retail ou ingrédient de formulation." },
+        { "title": "Commander en vrac", "description": "MOQ et packaging pour l’approvisionnement poudre." },
+        { "title": "Marque blanche", "description": "Pots et kits rituels optionnels." },
+        { "title": "Distribuer", "description": "Export vers vos marchés avec documents." }
+      ],
+      "faqIntro": "Poudre de nila marocaine en vrac pour grossistes et fabricants.",
+      "faq": [
+        { "question": "La nila est-elle vendue pour la fabrication cosmétique ?", "answer": "Oui. Gros, formulation et marque blanche." },
+        { "question": "Convient-elle à la fabrication cosmétique ?", "answer": "Oui. Nous la fournissons pour gros, formules et produits beauté marque blanche." },
+        { "question": "Puis-je commander la nila avec d’autres poudres ?", "answer": "Oui. Nila, aker fassi et ghassoul peuvent être mixés dans une même commande." },
+        { "question": "Fournissez-vous des documents d’export ?", "answer": "Oui, selon les exigences de destination." }
+      ],
+      "specs": [
+        { "label": "Origine", "value": "Maroc" },
+        { "label": "MOQ", "value": "À partir de 50 pièces" },
+        { "label": "Certification", "value": "Normes de fabrication ISO et GMP" },
+        { "label": "Services", "value": "Vrac, marque blanche, export" },
+        { "label": "Forme", "value": "Poudre fine" }
+      ],
+      "ctaTitle": "Besoin de nila pour votre catalogue ?",
+      "ctaDescription": "Demandez tarifs gros et détails d’export pour la nila marocaine."
+    },
+    "aker-fassi-powder": {
+      "categoryLabel": "Aker Fassi — teinte naturelle",
+      "title": "Aker Fassi en gros",
+      "summary": "Poudre de beauté marocaine traditionnelle pour lèvres, joues et teintes naturelles.",
+      "alt": "Aker Fassi, poudre naturelle de coquelicot et grenade",
+      "heroSubtitle": "Aker fassi marocain authentique pour les marques",
+      "description": "L’aker fassi est un ingrédient emblématique de la beauté traditionnelle et du coloris naturel. Nous l’exportons pour grossistes, marques blanches et distributeurs internationaux.",
+      "highlights": [
+        "Teinte traditionnelle lèvres et joues",
+        "Présent dans les gammes naturelles marocaines",
+        "Poudre vrac depuis le fabricant",
+        "Marque blanche et packaging sur mesure",
+        "Service gros prêt à l’export"
+      ],
+      "benefitsIntro": "Aker fassi authentique pour teintes, poudres et lignes de beauté marocaines en gros.",
+      "benefits": [
+        { "title": "Branding authentique", "description": "Une histoire beauté marocaine crédible, avec un ingrédient reconnu." },
+        { "title": "Potentiel maquillage", "description": "Poudres, teintes et concepts hybrides soin-couleur." },
+        { "title": "Flexibilité gros", "description": "Volumes adaptés aux boutiques et aux grands réseaux." },
+        { "title": "Partenariat fabricant", "description": "Travail direct avec un fabricant et exportateur marocain." },
+        { "title": "Packaging flexible", "description": "Vrac et formats brandés, retail et professionnel." },
+        { "title": "Prêt à l’export", "description": "Expédition mondiale avec support documents." }
+      ],
+      "detailsHeading": "Aker fassi — poudre de beauté marocaine naturelle",
+      "detailsParagraphs": [
+        "Prisé pour lèvres, joues et rituels traditionnels. Nous le fournissons en gros aux marques, distributeurs et exportateurs.",
+        "Le packaging marque blanche accélère le lancement avec un récit cosmétique marocain identifiable."
+      ],
+      "usageHeading": "Vendre l’aker fassi en gros",
+      "usageSubtitle": "Poudres teintées, kits rituels et concepts couleur naturelle.",
+      "usageSteps": [
+        { "title": "Concept produit", "description": "Poudre retail, kit ou ingrédient vrac." },
+        { "title": "Conditionnement", "description": "Sacs vrac ou pots marque blanche." },
+        { "title": "Devis et MOQ", "description": "Tarif selon volume et termes d’export." },
+        { "title": "Lancement", "description": "Réassorts via notre modèle de partenariat gros." }
+      ],
+      "faqIntro": "Aker fassi en gros, fabricant et exportateur de cosmétiques marocains.",
+      "faq": [
+        { "question": "Peut-il servir en marque blanche ?", "answer": "Oui. Poudres, teintes et collections beauté traditionnelles." },
+        { "question": "Proposez-vous le private label ?", "answer": "Oui. Packaging et branding sur mesure pour poudres et teintes." },
+        { "question": "Quel MOQ s’applique ?", "answer": "À partir de 50 pièces selon le packaging et le type de produit." },
+        { "question": "Puis-je le combiner avec nila ou ghassoul ?", "answer": "Oui. Commandes multi-produits sur toute notre gamme d’ingrédients." }
+      ],
+      "specs": [
+        { "label": "Origine", "value": "Maroc" },
+        { "label": "MOQ", "value": "À partir de 50 pièces" },
+        { "label": "Certification", "value": "Normes de fabrication ISO et GMP" },
+        { "label": "Services", "value": "Vrac, marque blanche, export" },
+        { "label": "Usage", "value": "Teinte lèvres/joues, beauté traditionnelle" }
+      ],
+      "ctaTitle": "Sourcer l’aker fassi pour votre marque ?",
+      "ctaDescription": "Contactez-nous pour le vrac, la marque blanche et les tarifs d’export."
+    },
+    "spa-ritual-essentials": {
+      "categoryLabel": "Essentiels du rituel spa",
+      "title": "Essentiels spa marocains en gros",
+      "summary": "Savon noir, ghassoul et eau de rose pour des programmes hammam et spa complets.",
+      "alt": "Essentiels spa marocains : savon noir, ghassoul et eau de rose",
+      "heroSubtitle": "Assortiment complet de bain marocain",
+      "description": "Nous regroupons les produits de bain marocains les plus demandés pour les distributeurs qui veulent une offre catégorie prête. Idéal pour spas, hôtels, salons et collections hammam marque blanche.",
+      "highlights": [
+        "Catégorie spa et hammam facile à bundler",
+        "Ingrédients de bain marocains essentiels",
+        "Gros et marque blanche",
+        "Offre catalogue forte pour l’export",
+        "Fabriqué et fourni depuis le Maroc"
+      ],
+      "benefitsIntro": "Assortiment spa marocain complet — savon noir, ghassoul, eau de rose et essentiels de bain.",
+      "benefits": [
+        { "title": "Offre catégorie complète", "description": "Racontez tout le rituel spa plutôt que des SKU isolés." },
+        { "title": "Entrée marché plus rapide", "description": "Aidez retail et spas à lancer des lignes rituelles authentiques." },
+        { "title": "Assortiment export", "description": "Conçu pour grossistes internationaux et hôtellerie." },
+        { "title": "Branding sur mesure", "description": "Packaging marque blanche adapté à votre identité." },
+        { "title": "Conditionnement flexible", "description": "Kits, SKU unitaires et formats hospitality." },
+        { "title": "Prêt à l’export", "description": "Un seul flux d’export pour toute la catégorie spa." }
+      ],
+      "detailsHeading": "Essentiels du rituel spa marocain — programme gros",
+      "detailsParagraphs": [
+        "Pour les acheteurs qui veulent une offre hammam/spa prête, sans sourcer produit par produit. Hôtels, spas, retail beauté et export.",
+        "Nous personnalisons assortiment, packaging et marque blanche selon votre marché et votre canal."
+      ],
+      "usageHeading": "Lancer un programme spa marocain en gros",
+      "usageSubtitle": "Hôtellerie, retail, e-commerce et spa professionnel.",
+      "usageSteps": [
+        { "title": "Définir l’assortiment", "description": "Produits et formats pour votre concept spa." },
+        { "title": "Branding", "description": "Coffrets, kits et étiquettes multilingues si besoin." },
+        { "title": "MOQ et tarif", "description": "Devis gros pour le programme complet." },
+        { "title": "Déploiement export", "description": "Expédiez des catégories spa complètes vers vos marchés." }
+      ],
+      "faqIntro": "Essentiels spa marocains en gros, avec fabrication, marque blanche et export.",
+      "faq": [
+        { "question": "Puis-je personnaliser les essentiels spa à ma marque ?", "answer": "Oui. Packaging et sélection produits pour gammes spa." },
+        { "question": "Puis-je choisir les produits inclus ?", "answer": "Oui. Programmes adaptés à votre marque, canal et positionnement prix." },
+        { "question": "Convient-il aux hôtels et spas ?", "answer": "Oui. Beaucoup de clients hospitality l’utilisent en carte de soins et en retail." },
+        { "question": "Quel MOQ pour les kits spa ?", "answer": "Selon composition et packaging — contactez-nous." }
+      ],
+      "specs": [
+        { "label": "Origine", "value": "Maroc" },
+        { "label": "MOQ", "value": "À partir de 50 pièces" },
+        { "label": "Certification", "value": "Normes de fabrication ISO et GMP" },
+        { "label": "Services", "value": "Vrac, marque blanche, export" },
+        { "label": "Programme", "value": "Assortiment spa multi-produits" }
+      ],
+      "ctaTitle": "Construire votre ligne spa marocaine en gros ?",
+      "ctaDescription": "Indiquez mix produits et quantités — nous préparons un devis gros compétitif."
+    }
+  }
+}

@@ -1,0 +1,496 @@
+{
+  "meta": {
+    "title": "Grossiste en cosmétiques marocains",
+    "titleTemplate": "%s | Grossiste en cosmétiques marocains",
+    "description": "Sourçez des cosmétiques marocains 100 % purs en gros auprès d’un fabricant, grossiste et exportateur — qualité constante et prix de gros.",
+    "ogTitle": "Fabrication, distribution et export de cosmétiques marocains",
+    "notFound": {
+      "product": "Produit introuvable",
+      "benefit": "Guide bienfaits introuvable",
+      "article": "Article introuvable"
+    },
+    "pages": {
+      "home": {
+        "title": "Grossiste en cosmétiques marocains | Fabricant et exportateur",
+        "description": "Sourçez des cosmétiques marocains 100 % purs depuis notre usine de Marrakech — vrac, marque blanche, qualité ISO et GMP, export mondial."
+      },
+      "about": {
+        "title": "À propos — fabricant et exportateur à Marrakech",
+        "description": "Fabricant, grossiste et exportateur B2B à Marrakech. Production orientée ISO et GMP, vrac et marque blanche pour distributeurs et marques."
+      },
+      "products": {
+        "title": "Catalogue gros — huiles, hammam et spa",
+        "description": "Catalogue de cosmétiques marocains en gros : huile d’argan, figue de Barbarie, savon noir, ghassoul, nila, aker fassi, eau de rose et essentiels spa."
+      },
+      "benefits": {
+        "title": "Bienfaits des ingrédients pour vos formules",
+        "description": "Bienfaits de l’huile d’argan, de la figue de Barbarie, du savon noir, de la nila, de l’aker fassi, du ghassoul et de l’eau de rose pour soins et gros."
+      },
+      "privateLabel": {
+        "title": "Marque blanche — fabrication cosmétique marocaine",
+        "description": "Marque blanche depuis Marrakech : branding, packaging, formules et export. MOQ dès 50 pièces. Argan, savon noir, ghassoul et gammes spa."
+      },
+      "blog": {
+        "title": "Analyses gros pour acheteurs et marques",
+        "description": "Articles B2B sur le gros cosmétique marocain, documents d’export, marque blanche, catégories hammam, MOQ et normes de qualité."
+      },
+      "faq": {
+        "title": "FAQ — MOQ, marque blanche et export",
+        "description": "Réponses sur le gros cosmétique marocain : MOQ, marque blanche, livraison internationale, ISO et GMP, commandes depuis Marrakech."
+      },
+      "contact": {
+        "title": "Contact — gros, marque blanche et export",
+        "description": "Contactez Moroccan Cosmetics Wholesale à Marrakech pour le vrac, la marque blanche, les échantillons et l’export. Email, WhatsApp et formulaire gros."
+      }
+    },
+    "products": {
+      "cosmetic-food-argan-oil": {
+        "title": "Huile d’argan cosmétique et alimentaire en gros",
+        "description": "Huile d’argan marocaine pure pour marques cosmétiques, partenaires food-grade, spas et distributeurs. Vrac, flacons et marque blanche."
+      },
+      "prickly-pear-seed-oil": {
+        "title": "Huile de pépins de figue de Barbarie en gros",
+        "description": "Huile anti-âge premium pour sérums et soins luxe. Qualité export, marque blanche et vrac depuis le Maroc."
+      },
+      "moroccan-black-soap": {
+        "title": "Savon noir marocain (savon beldi) en gros",
+        "description": "Savon noir hammam pour spas, salons et gammes bain. Vrac et marque blanche, exporté depuis le Maroc."
+      },
+      "moroccan-nila-powder": {
+        "title": "Poudre de nila marocaine en gros",
+        "description": "Nila éclaircissante pour masques, rituels et formules naturelles. Vrac et marque blanche depuis Marrakech."
+      },
+      "aker-fassi-powder": {
+        "title": "Aker fassi en gros",
+        "description": "Poudre aker fassi traditionnelle pour lèvres, joues et teintes naturelles. Vrac et marque blanche, fabricant à Marrakech."
+      },
+      "moroccan-rose-water": {
+        "title": "Eau de rose marocaine en gros",
+        "description": "Eau de rose distillée pour toniques, brumes et lignes spa. Flacons gros, vrac et marque blanche à l’export."
+      },
+      "moroccan-ghassoul-clay": {
+        "title": "Ghassoul marocain en gros",
+        "description": "Argile rhassoul pour masques, capillaires et programmes hammam. Vrac et marque blanche depuis le Maroc."
+      },
+      "spa-ritual-essentials": {
+        "title": "Essentiels spa marocains en gros",
+        "description": "Savon noir, ghassoul et eau de rose en programme hammam complet pour spas, hôtels et marques blanches."
+      }
+    },
+    "benefits": {
+      "pure-argan-oil-skin-hair": {
+        "title": "Bienfaits de l’huile d’argan pour la peau et les cheveux",
+        "description": "Comment l’huile d’argan hydrate, soutient les formules anti-âge et apporte de la brillance — en gros cosmétique et food-grade."
+      },
+      "prickly-pear-seed-oil-benefits": {
+        "title": "Bienfaits de l’huile de pépins de figue de Barbarie",
+        "description": "Bienfaits anti-âge de l’huile de figue de Barbarie pour sérums, soins luxe et catalogues gros professionnels."
+      },
+      "moroccan-black-soap-benefits": {
+        "title": "Bienfaits du savon noir marocain",
+        "description": "Savon beldi pour le nettoyage hammam, l’exfoliation et les programmes de soins corps en gros."
+      },
+      "moroccan-blue-nila-benefits": {
+        "title": "Bienfaits de la nila bleue marocaine",
+        "description": "Poudre de nila traditionnelle pour rituels d’éclat, teint unifié et soins de beauté marocains authentiques."
+      },
+      "aker-fassi-benefits": {
+        "title": "Bienfaits de l’aker fassi",
+        "description": "L’aker fassi comme teinte naturelle marocaine pour lèvres, joues et maquillage en collections gros."
+      },
+      "moroccan-rhassoul-clay-benefits": {
+        "title": "Bienfaits de l’argile rhassoul marocaine",
+        "description": "Ghassoul pour masques détox, soins capillaires et catégories hammam en gros."
+      },
+      "moroccan-rose-water-benefits": {
+        "title": "Bienfaits de l’eau de rose marocaine",
+        "description": "Eau de rose pour toniques, brumes, cartes spa et formules douces, en vente en gros."
+      }
+    },
+    "posts": {
+      "vetting-a-moroccan-cosmetics-wholesaler": {
+        "title": "Comment les distributeurs évaluent un grossiste marocain",
+        "description": "Checklist pour importateurs : preuve d’usine, constance des lots, documents d’export et MOQ avant le premier conteneur."
+      },
+      "export-documents-for-moroccan-beauty-orders": {
+        "title": "Documents d’export pour les commandes beauté marocaines",
+        "description": "Facture commerciale, packing list et spécifications que les acheteurs B2B doivent recevoir avant et après l’expédition."
+      },
+      "building-a-hammam-category-for-spa-wholesale": {
+        "title": "Construire une catégorie hammam pour le gros spa",
+        "description": "Comment spas et hôtels structurent savon noir, ghassoul et eau de rose en programme de bain marocain."
+      },
+      "private-label-first-collection-roadmap": {
+        "title": "Feuille de route marque blanche pour une première collection",
+        "description": "Enchaîner argan, rituels bain et soins pour lancer une première marque blanche sans dépasser le budget."
+      },
+      "moq-planning-for-first-wholesale-order": {
+        "title": "Planifier le MOQ de votre première commande gros",
+        "description": "Pourquoi 50 pièces est un point de départ — et comment mixer les SKU sans surstocker les produits lents."
+      },
+      "iso-gmp-questions-for-b2b-buyers": {
+        "title": "Questions ISO et GMP à poser aux fournisseurs marocains",
+        "description": "Les questions opérationnelles qui montrent si une usine peut soutenir votre canal retail ou professionnel."
+      },
+      "black-soap-ghassoul-bundle-for-retailers": {
+        "title": "Pourquoi savon noir et ghassoul se vendent mieux ensemble",
+        "description": "Associer savon beldi et rhassoul augmente le panier et donne aux équipes un rituel simple à raconter."
+      },
+      "prickly-pear-as-a-premium-line-item": {
+        "title": "Positionner l’huile de figue de Barbarie en ligne premium",
+        "description": "Positionnement anti-âge luxe pour distributeurs : prix, associations, et moment d’ajouter la figue de Barbarie."
+      }
+    }
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "blog": "Blog",
+    "products": "Produits",
+    "benefits": "Bienfaits",
+    "privateLabel": "Marque blanche",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "catalogCta": "Catalogue gros",
+    "openMenu": "Ouvrir le menu",
+    "main": "Principal",
+    "mobile": "Mobile"
+  },
+  "footer": {
+    "blurb": "Fabricant, grossiste et exportateur de cosmétiques marocains 100 % naturels, proposant l’approvisionnement en vrac, la marque blanche, des prix de gros compétitifs et des produits de beauté marocains de haute qualité pour les marchés mondiaux.",
+    "paymentMethods": "Moyens de paiement",
+    "shippingPartners": "Partenaires de livraison",
+    "company": "Société",
+    "products": "Produits",
+    "services": "Services",
+    "contact": "Contact",
+    "rights": "Tous droits réservés.",
+    "companyLinks": {
+      "aboutUs": "À propos",
+      "whoWeServe": "Nos clients",
+      "manufacturing": "Fabrication",
+      "ourQuality": "Notre qualité",
+      "exportServices": "Export",
+      "benefitsGuides": "Guides bienfaits",
+      "blog": "Blog",
+      "faq": "FAQ",
+      "contact": "Contact"
+    },
+    "productLinks": {
+      "arganOil": "Huile d’argan",
+      "pricklyPearOil": "Huile de figue de Barbarie",
+      "ghassoul": "Ghassoul marocain",
+      "roseWater": "Eau de rose",
+      "blackSoap": "Savon noir"
+    },
+    "serviceLinks": {
+      "wholesaleSupply": "Vente en gros",
+      "privateLabel": "Marque blanche",
+      "bulkPackaging": "Conditionnement vrac",
+      "customFormulas": "Formules sur mesure",
+      "globalShipping": "Livraison mondiale"
+    }
+  },
+  "cta": {
+    "title": "Prêt à lancer votre commande de gros ?",
+    "description": "Contactez-nous pour le catalogue, des échantillons ou un projet de marque blanche. Nous répondons rapidement aux distributeurs et aux marques du monde entier.",
+    "contactNow": "Nous contacter",
+    "whatsappCatalog": "Catalogue WhatsApp"
+  },
+  "catalogModal": {
+    "roles": "Fabricant • Grossiste • Exportateur",
+    "cta": "Obtenir le catalogue gros",
+    "features": {
+      "privateLabel": "Marque blanche disponible",
+      "moq": "MOQ : 50 pièces",
+      "shipping": "Livraison mondiale",
+      "samples": "Échantillons gratuits"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Grossiste en cosmétiques marocains",
+      "titleLine1": "Fabrication, distribution et export",
+      "titleLine2": "de cosmétiques marocains",
+      "titleMobile1": "Fabrication, distribution",
+      "titleMobile2": "et export de cosmétiques marocains",
+      "subtitle": "Cosmétiques marocains 100 % purs — qualité premium, prix de gros — ingrédients authentiques",
+      "badgeQuality": "Qualité",
+      "badgeAuthenticity": "Authenticité",
+      "badgeExport": "Export",
+      "productsCta": "Nos produits",
+      "catalogCta": "Demander le catalogue",
+      "imageAlt": "Production d’huile d’argan marocaine premium"
+    },
+    "manufacturing": {
+      "eyebrow": "La fabrication comprend",
+      "title": "L’expérience de la fabrication cosmétique marocaine",
+      "intro": "La fabrication locale est essentielle au succès du gros cosmétique marocain. Les fabricants au Maroc respectent des normes de qualité strictes et allient recettes traditionnelles et technologies modernes. Cette alliance donne des produits sûrs, efficaces et compétitifs pour les marchés internationaux.",
+      "isoBadge": "Certifié ISO et conforme GMP",
+      "closing": "Tous ces produits quittent l’usine avec une qualité constante, destinés au gros ou à la marque blanche.",
+      "imageAlt": "Laboratoire cosmétique moderne avec produits à l’huile d’argan",
+      "products": {
+        "skincare": "Soins de la peau",
+        "hair": "Soins capillaires naturels",
+        "oils": "Huiles cosmétiques",
+        "bath": "Savon noir et produits de bain marocains"
+      },
+      "stats": {
+        "products": "Produits",
+        "certified": "Certifié",
+        "compliant": "Conforme"
+      },
+      "cards": {
+        "rangeTitle": "Gamme de fabrication",
+        "rangeDescription": "Soins peau, cheveux, huiles cosmétiques, savon noir et produits de bain marocains — destinés aux clients gros et marque blanche.",
+        "isoTitle": "Normes ISO et GMP",
+        "isoDescription": "Qualité d’usine constante, certifications internationales, produits sûrs et prêts à l’export.",
+        "shippingTitle": "Livraison mondiale",
+        "shippingDescription": "Documentation, logistique et export vers l’Europe, les Amériques, l’Afrique et le Golfe."
+      }
+    },
+    "wholesaler": {
+      "eyebrow": "Pourquoi nous choisir",
+      "title": "Le grossiste cosmétique marocain dans la chaîne\u00a0d’approvisionnement",
+      "intro": "Le grossiste relie le fabricant au marché. Il fournit de grands volumes à des prix compétitifs, pour que les petites et grandes marques puissent entrer sur le marché plus vite et à moindre coût.",
+      "learnMore": "En savoir plus",
+      "closing": "Ces atouts font du gros cosmétique marocain une option rentable pour les détaillants locaux et internationaux.",
+      "items": {
+        "wholesaleTitle": "Prix de gros compétitifs",
+        "wholesaleBefore": "Le tarif fabricant direct élimine les intermédiaires et vous offre les meilleurs",
+        "wholesaleLink": "tarifs de gros",
+        "wholesaleAfter": "du marché.",
+        "catalogTitle": "Large gamme de produits",
+        "catalogBefore": "Accédez à un",
+        "catalogLink": "catalogue",
+        "catalogAfter": "complet de soins, capillaires et spa marocains authentiques.",
+        "privateLabelTitle": "Packaging et branding sur mesure",
+        "privateLabelBefore": "Des",
+        "privateLabelLink": "services de marque blanche",
+        "privateLabelAfter": "complets, avec un packaging adapté à votre identité de marque.",
+        "boutiqueTitle": "Flexibilité des volumes",
+        "boutiqueBefore": "Des commandes évolutives pour les",
+        "boutiqueLink": "marques boutiques",
+        "boutiqueAfter": "comme pour les grands distributeurs."
+      }
+    },
+    "ingredients": {
+      "eyebrow": "Les ingrédients les plus demandés",
+      "title": "Des ingrédients naturels qui créent de la valeur",
+      "intro": "Le succès des cosmétiques marocains repose sur des ingrédients 100 % naturels, reconnus pour leur efficacité et leur valeur, en phase avec la demande mondiale de produits sains et sûrs.",
+      "badge": "Ingrédient gros",
+      "viewProduct": "Voir le produit",
+      "items": {
+        "cosmetic-food-argan-oil": {
+          "name": "Huile d’argan cosmétique et alimentaire",
+          "description": "L’or liquide du Maroc",
+          "alt": "Huile d’argan marocaine authentique, grades cosmétique et alimentaire"
+        },
+        "prickly-pear-seed-oil": {
+          "name": "Huile de pépins de figue de Barbarie",
+          "description": "Puissant soin anti-âge",
+          "alt": "Huile de pépins de figue de Barbarie, reconnue pour ses propriétés anti-âge"
+        },
+        "moroccan-nila-powder": {
+          "name": "Nila",
+          "description": "Poudre bleue pour un teint éclatant",
+          "alt": "Poudre de nila, pigment bleu marocain traditionnel pour éclaircir la peau"
+        },
+        "aker-fassi-powder": {
+          "name": "Aker Fassi",
+          "description": "Poudres de beauté marocaines traditionnelles",
+          "alt": "Aker Fassi, poudre naturelle de coquelicot et grenade pour lèvres et joues"
+        },
+        "spa-ritual-essentials": {
+          "name": "Essentiels du rituel spa",
+          "description": "Savon noir, ghassoul et eau de rose",
+          "alt": "Collection spa marocaine : eau de rose et ghassoul"
+        }
+      }
+    },
+    "export": {
+      "eyebrow": "Processus d’export",
+      "title": "Exporter vers les marchés mondiaux",
+      "intro": "Le Maroc est devenu un exportateur majeur de cosmétiques naturels. Les destinations comprennent l’Europe, l’Amérique, l’Afrique et le Golfe. Les exportateurs respectent les normes ISO et GMP ainsi que les règles de sécurité et de qualité.",
+      "organized": "Le processus d’export est organisé et comprend :",
+      "step": "Étape",
+      "quote": "Ce professionnalisme renforce la réputation du gros cosmétique marocain sur le marché mondial.",
+      "steps": {
+        "documentationTitle": "Documentation",
+        "documentationDescription": "Dossier juridique complet",
+        "analysisTitle": "Analyses",
+        "analysisDescription": "Analyses laboratoire des produits",
+        "standardsTitle": "Normes",
+        "standardsDescription": "Conditionnement aux normes internationales",
+        "logisticsTitle": "Logistique",
+        "logisticsDescription": "Logistique efficace et rapide"
+      }
+    },
+    "buyingGuide": {
+      "eyebrow": "Guide d’achat",
+      "title": "Comment choisir le meilleur fabricant ?",
+      "intro": "Le gros cosmétique marocain est l’une des meilleures solutions pour les entreprises et marques qui cherchent un fabricant, importateur et exportateur de cosmétiques marocains de haute qualité à prix de gros. Notre fabrication s’appuie sur une longue expérience des cosmétiques naturels aux ingrédients marocains 100 % authentiques.",
+      "faqEyebrow": "Liste des FAQ",
+      "faqTitle": "Questions fréquentes pour votre activité",
+      "viewAllFaq": "Voir toute la FAQ",
+      "paragraphs": {
+        "privateLabel": "Nous proposons la marque blanche pour les cosmétiques marocains : formule, packaging et identité de marque. Partenaire idéal pour qui cherche un fabricant et grossiste marocain. Tous les produits sont préparés selon des normes de qualité approuvées pour l’export.",
+        "export": "En tant qu’exportateur, nous fournissons documentation, expédition internationale et conditionnement sur mesure, avec un MOQ de 50 pièces et des prix de gros compétitifs. Soins, capillaires, huiles de beauté et produits de bain marocains.",
+        "service": "Notre service de gros se distingue par la flexibilité, une qualité constante et des délais rapides, pour des partenariats durables avec distributeurs et marques dans le monde entier."
+      },
+      "faq": {
+        "q1": "Comment choisir le meilleur fabricant de cosmétiques marocains ?",
+        "a1": "Privilégiez une production interne, une qualité orientée ISO et GMP, et une vraie expérience d’export. Nous fabriquons à Marrakech avec des ingrédients marocains 100 % authentiques, du vrac et de la marque blanche.",
+        "q2": "Proposez-vous la marque blanche et le branding sur mesure ?",
+        "a2": "Oui. Formule, packaging et identité de marque peuvent être personnalisés. Les produits sont préparés selon des normes de qualité approuvées pour l’export.",
+        "q3": "Quel est le minimum de commande (MOQ) ?",
+        "a3": "Le MOQ gros commence à 50 pièces, selon le produit, le packaging et l’étiquetage. Indiquez votre mix lors de la demande de devis.",
+        "q4": "Livrez-vous à l’international ?",
+        "a4": "Oui. Nous exportons avec documents, expédition internationale et conditionnement adapté aux distributeurs en Europe, aux Amériques, en Afrique et dans le Golfe.",
+        "q5": "Puis-je demander des échantillons avant une commande vrac ?",
+        "a5": "Les échantillons se discutent avec votre demande de catalogue. Ils permettent de valider texture, parfum et packaging avant production.",
+        "q6": "Puis-je combiner plusieurs produits dans un même envoi ?",
+        "a6": "Oui. Huiles, produits hammam et SKU spa sont souvent mixés dans un même export. Nous structurons les cartons selon votre catalogue.",
+        "q7": "Qui livrez-vous, et depuis où ?",
+        "a7": "Nous fournissons distributeurs, spas, hôtels et marques depuis notre usine de Marrakech, zone industrielle Sidi Ghanem.",
+        "q8": "Quels sont les délais de production et d’export ?",
+        "a8": "Le délai dépend du SKU, du packaging et de la validation des étiquettes. Indiquez votre date de lancement pour un planning réaliste.",
+        "q9": "Quelles normes de qualité suivez-vous ?",
+        "a9": "La fabrication est orientée certification ISO et process GMP, pour des cosmétiques marocains constants et prêts à l’export.",
+        "q10": "Comment demander un catalogue et un devis gros ?",
+        "a10": "Utilisez le formulaire catalogue ou WhatsApp. Précisez produits, quantités, packaging et destination pour un devis adapté."
+      }
+    }
+  },
+  "about": {
+    "heroTitle": "Qui nous sommes — et qui nous livrons",
+    "storyEyebrow": "Notre entreprise",
+    "storyImageAlt": "Opérations de gros en cosmétiques marocains et ingrédients de beauté naturels",
+    "lead": {
+      "title": "Grossiste en cosmétiques marocains — fabricant, grossiste, exportateur",
+      "p1": "Nous sommes une structure basée à Marrakech, conçue pour les acheteurs B2B : distributeurs, groupes spa, marques e-commerce et détaillants qui ont besoin de cosmétiques marocains authentiques à grande échelle — pas une boutique avec un volet gros.",
+      "p2": "Notre rôle est de relier les ingrédients marocains et la production usine aux marchés internationaux, via un export documenté, un MOQ flexible, et des programmes de vrac et de marque blanche."
+    },
+    "stats": {
+      "moq": "Volumes d’entrée flexibles",
+      "refs": "Références produits",
+      "b2b": "Gros et marque blanche"
+    },
+    "pillarsEyebrow": "Notre fonctionnement",
+    "pillarsTitle": "Quatre piliers de notre modèle gros",
+    "pillars": {
+      "factory": {
+        "title": "Esprit usine d’abord",
+        "description": "La production et le contrôle qualité restent au centre. Catalogue, tarifs et documents d’export suivent les mêmes standards de fabrication."
+      },
+      "partnerships": {
+        "title": "Partenariats B2B",
+        "description": "Nous privilégions les commandes répétées, des spécifications claires et des délais fiables pour les distributeurs et marques qui construisent des lignes dans la durée."
+      },
+      "sourcing": {
+        "title": "Sourcing marocain traçable",
+        "description": "Argan, argiles, eaux florales et ingrédients de rituel sont sélectionnés pour un usage cosmétique, avec une constance d’un lot à l’autre."
+      },
+      "compliance": {
+        "title": "Conformité prête à l’export",
+        "description": "Processus orientés ISO et GMP, emballages adaptés au transit international, et documentation alignée sur les exigences des acheteurs."
+      }
+    },
+    "clients": {
+      "eyebrow": "Avec qui nous travaillons",
+      "title": "Conçu pour les acheteurs professionnels",
+      "description": "L’essentiel de nos volumes sert des entreprises — pas le consommateur final. Nos partenaires typiques :",
+      "item1": "Distributeurs et importateurs de cosmétiques en Europe, Amérique du Nord, Afrique et Golfe",
+      "item2": "Fournisseurs de spas, hôtels et hammams commandant rituels de bain et lignes d’équipement",
+      "item3": "Marques en ligne lançant des soins marocains avec packaging marque blanche",
+      "item4": "Formulateurs et détaillants ajoutant des SKU phares comme l’huile d’argan ou le ghassoul"
+    },
+    "catalogCta": "Voir le catalogue produits",
+    "privateLabelCta": "Services marque blanche",
+    "audience": "Des questions sur l’accès au catalogue, les échantillons ou un brief marque blanche ? Notre équipe répond via le catalogue gros et les canaux indiqués sur ce site.",
+    "production": {
+      "eyebrow": "Base de production",
+      "title": "Fabrication à Marrakech",
+      "p1": "Notre site opère depuis la zone industrielle de Sidi Ghanem — le pôle utilisé par de nombreux exportateurs de beauté marocains pour la production, le conditionnement et l’expédition.",
+      "p2": "Huiles de soin, savon noir, argiles, poudres et eaux florales sont préparés pour les circuits gros, du vrac jusqu’à la marque blanche prête en rayon."
+    },
+    "productionImageAlt": "Fabrication de cosmétiques marocains et contrôle qualité en laboratoire",
+    "manufacturingLink": "Voir la fabrication sur l’accueil",
+    "quality": {
+      "eyebrow": "Approche qualité",
+      "title": "Les standards attendus par les acheteurs",
+      "item1": "Orientation fabrication certifiée ISO et conforme GMP",
+      "item2": "Processus contrôlés pour huiles, argiles, savons et produits à base d’eau",
+      "item3": "Spécifications et informations de lot disponibles pour les commandes professionnelles",
+      "item4": "Support packaging et étiquetage pour l’export et les séries marque blanche"
+    },
+    "export": {
+      "eyebrow": "Approvisionnement international",
+      "title": "De Marrakech jusqu’à votre entrepôt",
+      "p1": "L’export fait partie du quotidien : factures commerciales, packing lists et coordination avec les transporteurs internationaux.",
+      "p2": "Nous livrons des marchés établis dans le monde et adaptons la documentation lorsque les acheteurs ont besoin de formats de conformité spécifiques."
+    },
+    "shippingCta": "Contact et partenaires de transport",
+    "ctaTitle": "Travaillez avec un partenaire gros à Marrakech",
+    "ctaDescription": "Demandez le catalogue, discutez des conditions d’export, ou préparez une ligne marque blanche avec un fabricant de cosmétiques marocains."
+  },
+  "contact": {
+    "heroEyebrow": "Support gros",
+    "heroTitle": "Contactez notre équipe à Marrakech",
+    "heroIntro": "Indiquez vos besoins en vrac, marque blanche, échantillons ou export. Notre usine répond aux acheteurs professionnels sous 1 à 2 jours ouvrés.",
+    "bullets": {
+      "b1": "Cosmétiques marocains authentiques depuis notre usine de Marrakech",
+      "b2": "Vrac et marque blanche dès 50 pièces",
+      "b3": "Documents d’export et partenaires de transport internationaux"
+    },
+    "detailsTitle": "Coordonnées",
+    "detailsIntro": "Utilisez le formulaire pour une demande gros. Email, WhatsApp et téléphone restent ouverts pour un contact direct.",
+    "emailLabel": "Email",
+    "phoneLabel": "Téléphone",
+    "whatsappLabel": "WhatsApp",
+    "locationLabel": "Adresse",
+    "replyChip": "Réponse typique : 1–2 jours ouvrés",
+    "focusChip": "Focus : gros, marque blanche, export",
+    "formTitle": "Envoyer une demande gros",
+    "formIntro": "Précisez produits, quantités, destination et packaging pour préparer un devis.",
+    "name": "Nom complet",
+    "namePlaceholder": "Votre nom complet",
+    "phone": "Téléphone",
+    "phonePlaceholder": "+212 6xx-xxxxxx",
+    "email": "Email",
+    "emailPlaceholder": "vous@entreprise.com",
+    "company": "Société",
+    "companyPlaceholder": "Votre société ou marque",
+    "subject": "Sujet",
+    "subjectPlaceholder": "Choisir un sujet",
+    "subjects": {
+      "wholesale": "Demande gros",
+      "privateLabel": "Marque blanche",
+      "samples": "Demande d’échantillons",
+      "export": "Export et livraison",
+      "other": "Autre"
+    },
+    "message": "Message",
+    "messagePlaceholder": "Produits, quantité, pays de destination, packaging ou brief marque blanche…",
+    "submit": "Envoyer la demande",
+    "sent": "Votre application email s’ouvre avec la demande. Vous pouvez aussi nous joindre sur WhatsApp.",
+    "required": "Merci de renseigner les champs obligatoires."
+  },
+  "blog": {
+    "heroTitle": "Analyses gros pour acheteurs beauté marocains",
+    "eyebrow": "Blog B2B",
+    "introTitle": "Guides pratiques — pas du lifestyle",
+    "intro": "Articles pour importateurs, fournisseurs spa et marques blanches qui sourcent au Maroc. Export, MOQ, construction de catégorie et qualité usine — écrits du point de vue d’un grossiste.",
+    "ctaTitle": "Besoin d’approvisionnement gros derrière ces sujets ?",
+    "ctaDescription": "Parcourez le catalogue ou discutez marque blanche et export avec l’équipe Moroccan Cosmetics Wholesale.",
+    "readArticle": "Lire l’article",
+    "minRead": "{minutes} min de lecture",
+    "related": "Articles liés",
+    "viewAll": "Voir tous les articles",
+    "articleCtaTitle": "Prêt à commander ou lancer une marque blanche ?",
+    "articleCtaDescription": "Demandez le catalogue gros, le MOQ et les conditions d’export des cosmétiques marocains depuis Marrakech.",
+    "publishedBy": "Publié par",
+    "publishedMid": "— fabricant, grossiste et exportateur de cosmétiques marocains. Pour le catalogue et les devis,",
+    "contactTeam": "contactez notre équipe gros"
+  }
+}

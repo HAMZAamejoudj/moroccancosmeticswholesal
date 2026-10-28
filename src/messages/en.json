@@ -1,0 +1,496 @@
+{
+  "meta": {
+    "title": "Moroccan Cosmetics Wholesale",
+    "titleTemplate": "%s | Moroccan Cosmetics Wholesale",
+    "description": "Buy and source 100% pure Moroccan cosmetics wholesale from a manufacturer, wholesaler and exporter — high quality and wholesale prices.",
+    "ogTitle": "Manufacturing, distribution and exporting Moroccan cosmetics",
+    "notFound": {
+      "product": "Product not found",
+      "benefit": "Benefit guide not found",
+      "article": "Article not found"
+    },
+    "pages": {
+      "home": {
+        "title": "Moroccan Cosmetics Wholesale | Manufacturer, wholesaler & exporter",
+        "description": "Source 100% pure Moroccan cosmetics wholesale from our Marrakesh factory — bulk supply, private label, ISO & GMP quality, and worldwide export."
+      },
+      "about": {
+        "title": "About us — manufacturer and exporter in Marrakesh",
+        "description": "Moroccan Cosmetics Wholesale is a B2B manufacturer, wholesaler, and exporter in Marrakesh. ISO & GMP oriented production, bulk supply, and private label for distributors and brands."
+      },
+      "products": {
+        "title": "Wholesale catalog — oils, hammam and spa",
+        "description": "Browse Moroccan cosmetics wholesale: argan oil, prickly pear oil, black soap, ghassoul, nila, aker fassi, rose water, and spa essentials. Bulk and private label."
+      },
+      "benefits": {
+        "title": "Ingredient benefits for wholesale formulas",
+        "description": "Benefits of argan oil, prickly pear seed oil, black soap, nila, aker fassi, ghassoul clay, and rose water for skincare, haircare, and wholesale formulations."
+      },
+      "privateLabel": {
+        "title": "Private label Moroccan cosmetics manufacturing",
+        "description": "Private label from Marrakesh — custom branding, packaging, formulas, and export. MOQ from 50 pieces. Argan oil, black soap, ghassoul, and spa ranges."
+      },
+      "blog": {
+        "title": "Wholesale insights for buyers and brands",
+        "description": "B2B articles on Moroccan cosmetics wholesale, export documents, private label, hammam categories, MOQ planning, and quality standards."
+      },
+      "faq": {
+        "title": "FAQ — MOQ, private label and export",
+        "description": "Answers on Moroccan cosmetics wholesale: MOQ, private label, international shipping, ISO & GMP quality, and ordering from Marrakesh."
+      },
+      "contact": {
+        "title": "Contact — wholesale, private label and export",
+        "description": "Contact Moroccan Cosmetics Wholesale in Marrakesh for bulk supply, private label, samples, and export. Email, WhatsApp, and a wholesale inquiry form."
+      }
+    },
+    "products": {
+      "cosmetic-food-argan-oil": {
+        "title": "Cosmetic & food argan oil wholesale",
+        "description": "Pure Moroccan argan oil for cosmetic brands, food-grade partners, spas, and distributors. Bulk drums, bottles, and private label from Marrakesh."
+      },
+      "prickly-pear-seed-oil": {
+        "title": "Prickly pear seed oil wholesale",
+        "description": "Premium anti-aging prickly pear seed oil for serums and luxury skincare. Export quality, private label, and bulk supply from Morocco."
+      },
+      "moroccan-black-soap": {
+        "title": "Moroccan black soap (savon beldi) wholesale",
+        "description": "Traditional hammam black soap for spas, salons, and bath ranges. Bulk and private label savon beldi exported from Morocco."
+      },
+      "moroccan-nila-powder": {
+        "title": "Moroccan nila powder wholesale",
+        "description": "Brightening Moroccan nila powder for masks, rituals, and natural beauty formulas. Bulk supply and private label from Marrakesh."
+      },
+      "aker-fassi-powder": {
+        "title": "Aker fassi wholesale",
+        "description": "Traditional Moroccan aker fassi powder for lips, cheeks, and natural tints. Bulk and private label from a Marrakesh manufacturer."
+      },
+      "moroccan-rose-water": {
+        "title": "Moroccan rose water wholesale",
+        "description": "Steam-distilled Moroccan rose water for toners, mists, and spa lines. Wholesale bottles, bulk, and private label export."
+      },
+      "moroccan-ghassoul-clay": {
+        "title": "Moroccan ghassoul clay wholesale",
+        "description": "Rhassoul clay for face masks, hair care, and hammam programs. Bulk ghassoul supply and private label from Morocco."
+      },
+      "spa-ritual-essentials": {
+        "title": "Moroccan spa ritual essentials wholesale",
+        "description": "Black soap, ghassoul, and rose water as a complete hammam wholesale program for spas, hotels, and private label brands."
+      }
+    },
+    "benefits": {
+      "pure-argan-oil-skin-hair": {
+        "title": "Argan oil benefits for skin and hair",
+        "description": "How Moroccan argan oil moisturizes skin, supports anti-aging formulas, and adds hair shine — for cosmetic and food-grade wholesale lines."
+      },
+      "prickly-pear-seed-oil-benefits": {
+        "title": "Prickly pear seed oil benefits",
+        "description": "Anti-aging benefits of prickly pear seed oil for serums, luxury skincare, and professional wholesale catalogs."
+      },
+      "moroccan-black-soap-benefits": {
+        "title": "Benefits of Moroccan black soap",
+        "description": "Savon beldi for hammam cleansing, exfoliation, and natural body care wholesale programs."
+      },
+      "moroccan-blue-nila-benefits": {
+        "title": "Benefits of Moroccan blue nila",
+        "description": "Traditional nila powder for brightening rituals, even-looking skin, and authentic Moroccan beauty treatments."
+      },
+      "aker-fassi-benefits": {
+        "title": "Benefits of aker fassi",
+        "description": "Aker fassi as a natural Moroccan tint for lips, cheeks, and color cosmetics in wholesale collections."
+      },
+      "moroccan-rhassoul-clay-benefits": {
+        "title": "Moroccan rhassoul clay benefits",
+        "description": "Ghassoul clay for detox masks, hair care, and hammam wholesale categories."
+      },
+      "moroccan-rose-water-benefits": {
+        "title": "Moroccan rose water benefits",
+        "description": "Rose water for toners, facial mists, spa menus, and gentle skincare formulations at wholesale."
+      }
+    },
+    "posts": {
+      "vetting-a-moroccan-cosmetics-wholesaler": {
+        "title": "How distributors vet a Moroccan cosmetics wholesaler",
+        "description": "A practical checklist for importers: factory proof, batch consistency, export paperwork, and MOQ terms before the first container."
+      },
+      "export-documents-for-moroccan-beauty-orders": {
+        "title": "Export documents for Moroccan beauty orders",
+        "description": "Commercial invoices, packing lists, and specifications B2B buyers should receive before and after dispatch from Morocco."
+      },
+      "building-a-hammam-category-for-spa-wholesale": {
+        "title": "Building a hammam category for spa wholesale",
+        "description": "How spa and hotel suppliers structure black soap, ghassoul, and rose water as a Moroccan bath program."
+      },
+      "private-label-first-collection-roadmap": {
+        "title": "Private label roadmap for a first Moroccan collection",
+        "description": "Sequence argan, bath rituals, and treatments so your first private label run stays on budget."
+      },
+      "moq-planning-for-first-wholesale-order": {
+        "title": "MOQ planning for a first wholesale order from Morocco",
+        "description": "Why MOQ 50 pieces is a starting point — and how to mix SKUs without overstocking slow movers."
+      },
+      "iso-gmp-questions-for-b2b-buyers": {
+        "title": "ISO and GMP questions for Moroccan suppliers",
+        "description": "Operational questions that show whether a factory can support your retail or professional channel."
+      },
+      "black-soap-ghassoul-bundle-for-retailers": {
+        "title": "Why black soap and ghassoul bundles work in retail",
+        "description": "Pairing savon beldi with rhassoul clay increases basket size and gives store teams a simple ritual story."
+      },
+      "prickly-pear-as-a-premium-line-item": {
+        "title": "Prickly pear seed oil as a premium wholesale line",
+        "description": "Luxury anti-aging positioning for distributors: pricing, pairings, and when to add prickly pear after core SKUs."
+      }
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "blog": "Blog",
+    "products": "Products",
+    "benefits": "Benefits",
+    "privateLabel": "Private label",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "catalogCta": "Get wholesale catalog",
+    "openMenu": "Open menu",
+    "main": "Main",
+    "mobile": "Mobile"
+  },
+  "footer": {
+    "blurb": "Moroccan cosmetics wholesale manufacturer, wholesaler, and exporter of 100% pure natural cosmetics, offering bulk supply, private label solutions, competitive wholesale prices, and high-quality Moroccan beauty products for global markets.",
+    "paymentMethods": "Payment methods",
+    "shippingPartners": "Shipping partners",
+    "company": "Company",
+    "products": "Products",
+    "services": "Services",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "companyLinks": {
+      "aboutUs": "About Us",
+      "whoWeServe": "Who we serve",
+      "manufacturing": "Manufacturing",
+      "ourQuality": "Our Quality",
+      "exportServices": "Export Services",
+      "benefitsGuides": "Benefits guides",
+      "blog": "Blog",
+      "faq": "FAQ",
+      "contact": "Contact"
+    },
+    "productLinks": {
+      "arganOil": "Argan Oil",
+      "pricklyPearOil": "Prickly Pear Oil",
+      "ghassoul": "Moroccan Ghassoul",
+      "roseWater": "Rose Water",
+      "blackSoap": "Black Soap"
+    },
+    "serviceLinks": {
+      "wholesaleSupply": "Wholesale Supply",
+      "privateLabel": "Private Label",
+      "bulkPackaging": "Bulk Packaging",
+      "customFormulas": "Custom Formulas",
+      "globalShipping": "Global Shipping"
+    }
+  },
+  "cta": {
+    "title": "Ready to start your wholesale order?",
+    "description": "Contact us to request the catalog, ask about samples, or discuss private label manufacturing. We respond quickly to distributors and brands worldwide.",
+    "contactNow": "Contact us now",
+    "whatsappCatalog": "WhatsApp catalog"
+  },
+  "catalogModal": {
+    "roles": "Manufacturer • Wholesaler • Exporter",
+    "cta": "Get the wholesale catalog",
+    "features": {
+      "privateLabel": "Private Label Available",
+      "moq": "MOQ: 50 PCS",
+      "shipping": "Worldwide Shipping Available",
+      "samples": "Free Samples Available"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Moroccan cosmetics wholesale",
+      "titleLine1": "Manufacturing, distribution & export",
+      "titleLine2": "of Moroccan cosmetics",
+      "titleMobile1": "Manufacturing, distribution",
+      "titleMobile2": "& export of Moroccan cosmetics",
+      "subtitle": "100% pure Moroccan cosmetics — high quality wholesale prices — authentic ingredients",
+      "badgeQuality": "Quality",
+      "badgeAuthenticity": "Authenticity",
+      "badgeExport": "Export",
+      "productsCta": "Our products",
+      "catalogCta": "Request wholesale catalog",
+      "imageAlt": "Premium Moroccan Argan Oil Production"
+    },
+    "manufacturing": {
+      "eyebrow": "Manufacturing includes",
+      "title": "Experience in Moroccan cosmetics manufacturing",
+      "intro": "Local manufacturing plays a fundamental role in the success of Moroccan cosmetics wholesale. Manufacturers in Morocco adhere to strict quality standards and combine traditional recipes with modern technology. This integration results in safe, effective, and competitive products for international markets.",
+      "isoBadge": "ISO Certified & GMP Compliant",
+      "closing": "All these products leave the factory with consistent quality and are intended for wholesale or private labeling for clients.",
+      "imageAlt": "Modern cosmetics laboratory with argan oil products",
+      "products": {
+        "skincare": "Skincare products",
+        "hair": "Natural hair products",
+        "oils": "Cosmetic oils",
+        "bath": "Black soap and Moroccan bath products"
+      },
+      "stats": {
+        "products": "Products",
+        "certified": "Certified",
+        "compliant": "Compliant"
+      },
+      "cards": {
+        "rangeTitle": "Manufacturing Range",
+        "rangeDescription": "Skincare, haircare, cosmetic oils, black soap, and Moroccan bath products — produced for wholesale and private label clients.",
+        "isoTitle": "ISO & GMP Standards",
+        "isoDescription": "Consistent factory quality with international certification standards for safe, effective products ready for export.",
+        "shippingTitle": "Worldwide Shipping",
+        "shippingDescription": "Documentation, logistics, and export support for Europe, the Americas, Africa, and Gulf markets."
+      }
+    },
+    "wholesaler": {
+      "eyebrow": "Why choose us",
+      "title": "Moroccan cosmetics wholesaler in the supply\u00a0chain",
+      "intro": "The Moroccan cosmetics wholesaler acts as the link between the manufacturer and the market. Wholesalers provide large quantities at competitive prices, helping both small and large brands enter the market quickly and at a lower cost.",
+      "learnMore": "Learn more",
+      "closing": "These factors make Moroccan cosmetics wholesale a profitable option for local and international retailers.",
+      "items": {
+        "wholesaleTitle": "Competitive wholesale prices",
+        "wholesaleBefore": "Direct manufacturer pricing eliminates middlemen, offering you the best",
+        "wholesaleLink": "wholesale rates",
+        "wholesaleAfter": "in the market.",
+        "catalogTitle": "Wide variety of products",
+        "catalogBefore": "Access a comprehensive",
+        "catalogLink": "catalog",
+        "catalogAfter": "of authentic Moroccan skincare, haircare, and spa products.",
+        "privateLabelTitle": "Custom packaging and branding",
+        "privateLabelBefore": "Full",
+        "privateLabelLink": "private label services",
+        "privateLabelAfter": "with bespoke packaging design tailored to your brand identity.",
+        "boutiqueTitle": "Flexibility in quantities and orders",
+        "boutiqueBefore": "Scalable ordering solutions to accommodate both",
+        "boutiqueLink": "boutique brands",
+        "boutiqueAfter": "and large-scale distributors."
+      }
+    },
+    "ingredients": {
+      "eyebrow": "The most popular ingredients include",
+      "title": "Natural ingredients add value",
+      "intro": "One of the main reasons for the success of Moroccan cosmetics is their reliance on 100% natural ingredients. These ingredients are known for their effectiveness and therapeutic value, and they align with the global consumer trend towards healthy and safe products.",
+      "badge": "Wholesale ingredient",
+      "viewProduct": "View product",
+      "items": {
+        "cosmetic-food-argan-oil": {
+          "name": "Cosmetic & Food Argan Oil",
+          "description": "Pure Moroccan liquid gold",
+          "alt": "Authentic Moroccan Argan Oil in various grades for cosmetic and culinary use"
+        },
+        "prickly-pear-seed-oil": {
+          "name": "Prickly Pear Seed Oil",
+          "description": "Intense anti-aging powerhouse",
+          "alt": "Organic Prickly Pear Seed Oil, known for its powerful anti-aging properties"
+        },
+        "moroccan-nila-powder": {
+          "name": "Nila",
+          "description": "Brightening blue powder for radiant skin",
+          "alt": "Pure Nila powder, a traditional Moroccan blue pigment for skin brightening"
+        },
+        "aker-fassi-powder": {
+          "name": "Aker Fassi",
+          "description": "Traditional Moroccan beauty powders",
+          "alt": "Aker Fassi, a natural Moroccan poppy and pomegranate powder for lips and cheeks"
+        },
+        "spa-ritual-essentials": {
+          "name": "Spa Ritual Essentials",
+          "description": "Black Soap, Ghassoul & Rose Water",
+          "alt": "Collection of traditional Moroccan spa products including Rose Water and Ghassoul"
+        }
+      }
+    },
+    "export": {
+      "eyebrow": "Export process",
+      "title": "Exporting to global markets",
+      "intro": "Morocco has become a leading exporter of natural cosmetics. Exports include Europe, America, Africa, and the Gulf countries. Exporting companies adhere to international standards such as ISO and GMP, and respect safety and quality regulations.",
+      "organized": "The export process is organized and includes:",
+      "step": "Step",
+      "quote": "This professionalism strengthens the reputation of Moroccan cosmetics wholesale in the global market.",
+      "steps": {
+        "documentationTitle": "Documentation",
+        "documentationDescription": "Complete legal documentation",
+        "analysisTitle": "Analysis",
+        "analysisDescription": "Laboratory analysis of products",
+        "standardsTitle": "Standards",
+        "standardsDescription": "Packaging that meets international standards",
+        "logisticsTitle": "Logistics",
+        "logisticsDescription": "Efficient and fast logistics"
+      }
+    },
+    "buyingGuide": {
+      "eyebrow": "Buying guide",
+      "title": "How to choose the best manufacturer?",
+      "intro": "Moroccan cosmetics wholesale is one of the best solutions for companies and brands looking for a manufacturer, importer, and exporter of high-quality Moroccan cosmetics at wholesale prices. Our manufacturing process is based on extensive experience in producing natural cosmetics using 100% authentic Moroccan ingredients.",
+      "faqEyebrow": "List of FAQs",
+      "faqTitle": "Popular questions for your business",
+      "viewAllFaq": "View all FAQ",
+      "paragraphs": {
+        "privateLabel": "We offer private label services for Moroccan cosmetics, with the ability to customize the formula, packaging, and brand identity, making us the ideal partner for anyone seeking a Moroccan cosmetics manufacturer and wholesaler. All products are prepared according to approved quality standards for export to international markets.",
+        "export": "As a Moroccan cosmetics exporter, we provide comprehensive export solutions, including documentation, international shipping, and customized packaging, with a minimum order quantity (MOQ) of 50 pieces and competitive wholesale prices. Our products include skincare, haircare, beauty oils, and Moroccan bath products.",
+        "service": "Our Moroccan cosmetics wholesale service is characterized by flexibility, consistent quality, and fast turnaround, ensuring long-term partnerships with distributors and brands worldwide."
+      },
+      "faq": {
+        "q1": "How do I choose the best Moroccan cosmetics manufacturer?",
+        "a1": "Look for in-house production, ISO and GMP oriented quality, and export experience. We manufacture in Marrakesh with 100% authentic Moroccan ingredients, bulk supply, and private label support.",
+        "q2": "Do you offer private label and custom branding?",
+        "a2": "Yes. Formula, packaging, and brand identity can be customized. Products are prepared to approved quality standards for international export.",
+        "q3": "What is the minimum order quantity (MOQ)?",
+        "a3": "Wholesale MOQ starts from 50 pieces, depending on product type, packaging, and labeling. Share your mix when you request a quote.",
+        "q4": "Do you ship internationally?",
+        "a4": "Yes. We export with documentation, international shipping, and packaging adapted to distributors in Europe, the Americas, Africa, and the Gulf.",
+        "q5": "Can I request samples before a bulk order?",
+        "a5": "Sample requests are discussed with your catalog inquiry. They help approve texture, scent, and packaging before a production run.",
+        "q6": "Can I combine different products in one shipment?",
+        "a6": "Yes. Oils, hammam products, and spa SKUs are often mixed in one export. We help structure cartons around your catalog plan.",
+        "q7": "Who do you supply, and from where?",
+        "a7": "We supply distributors, spas, hotels, and beauty brands from our Marrakesh factory in the Sidi Ghanem industrial zone.",
+        "q8": "How long does production and export take?",
+        "a8": "Lead time depends on SKU, packaging, and label approval. Share your launch date so we can propose a realistic production and shipping schedule.",
+        "q9": "What quality standards do you follow?",
+        "a9": "Manufacturing is oriented to ISO certification and GMP processes for consistent, export-ready Moroccan cosmetics.",
+        "q10": "How do I request a catalog and wholesale quote?",
+        "a10": "Use the catalog form or WhatsApp on this site. Include products, quantities, packaging, and destination for a tailored quotation."
+      }
+    }
+  },
+  "about": {
+    "heroTitle": "Who we are — and who we supply",
+    "storyEyebrow": "Our company",
+    "storyImageAlt": "Moroccan cosmetics wholesale operations and natural beauty ingredients",
+    "lead": {
+      "title": "Moroccan Cosmetics Wholesale — manufacturer, wholesaler, exporter",
+      "p1": "We are a Marrakesh-based operation built for B2B buyers: distributors, spa groups, e-commerce brands, and retailers who need authentic Moroccan cosmetics at scale — not a retail shop with a wholesale add-on.",
+      "p2": "Our role is to connect Moroccan ingredients and factory production with international markets through documented export, flexible MOQ, and programs that include bulk supply and private label."
+    },
+    "stats": {
+      "moq": "Flexible entry volumes",
+      "refs": "Product references",
+      "b2b": "Wholesale & private label"
+    },
+    "pillarsEyebrow": "How we operate",
+    "pillarsTitle": "Four pillars of our wholesale model",
+    "pillars": {
+      "factory": {
+        "title": "Factory-first mindset",
+        "description": "Production and quality control stay at the center. Catalog, pricing, and export paperwork follow the same manufacturing standards."
+      },
+      "partnerships": {
+        "title": "B2B partnerships",
+        "description": "We prioritize repeat orders, clear specifications, and reliable lead times for distributors and brands building long-term lines."
+      },
+      "sourcing": {
+        "title": "Traceable Moroccan sourcing",
+        "description": "Argan, clays, floral waters, and ritual ingredients are selected for cosmetic use with consistency batch to batch."
+      },
+      "compliance": {
+        "title": "Export-ready compliance",
+        "description": "ISO and GMP oriented processes, packaging suited to international transit, and documentation aligned with buyer requirements."
+      }
+    },
+    "clients": {
+      "eyebrow": "Who we work with",
+      "title": "Built for professional buyers",
+      "description": "Most of our volume serves businesses — not end consumers. Typical partners include:",
+      "item1": "Cosmetics distributors and importers in Europe, North America, Africa, and the Gulf",
+      "item2": "Spa, hotel, and hammam suppliers ordering bath rituals and amenity lines",
+      "item3": "Online brands launching Moroccan skincare with private label packaging",
+      "item4": "Formulators and retailers adding hero SKUs such as argan oil or ghassoul clay"
+    },
+    "catalogCta": "View product catalog",
+    "privateLabelCta": "Private label services",
+    "audience": "Questions about catalog access, samples, or a private label brief? Our team responds through the wholesale catalog and direct channels listed on this site.",
+    "production": {
+      "eyebrow": "Production base",
+      "title": "Manufacturing in Marrakesh",
+      "p1": "Our facility operates from the Sidi Ghanem industrial zone — the hub many Moroccan beauty exporters use for production, packing, and dispatch.",
+      "p2": "Skincare oils, black soap, clays, powders, and floral waters are prepared for wholesale channels with packaging options from bulk to retail-ready private label."
+    },
+    "productionImageAlt": "Moroccan cosmetics manufacturing and laboratory quality control",
+    "manufacturingLink": "See manufacturing on the homepage",
+    "quality": {
+      "eyebrow": "Quality approach",
+      "title": "Standards buyers expect",
+      "item1": "ISO certified and GMP compliant manufacturing orientation",
+      "item2": "Controlled processes for oils, clays, soaps, and water-based products",
+      "item3": "Specifications and batch information available for professional orders",
+      "item4": "Packaging and labeling support for export and private label runs"
+    },
+    "export": {
+      "eyebrow": "International supply",
+      "title": "From Marrakesh to your warehouse",
+      "p1": "Export is part of our daily workflow: commercial invoices, packing lists, and coordination with international carriers.",
+      "p2": "We ship to established markets worldwide and adapt documentation when buyers need specific compliance formats."
+    },
+    "shippingCta": "Contact & shipping partners",
+    "ctaTitle": "Work with a Marrakesh wholesale partner",
+    "ctaDescription": "Request the catalog, discuss export terms, or plan a private label line with Moroccan Cosmetics Wholesale."
+  },
+  "contact": {
+    "heroEyebrow": "Wholesale support",
+    "heroTitle": "Contact our Marrakesh team",
+    "heroIntro": "Tell us what you need for bulk supply, private label, samples, or export. Our factory team replies to professional buyers within 1–2 business days.",
+    "bullets": {
+      "b1": "Authentic Moroccan cosmetics from our Marrakesh factory",
+      "b2": "Bulk supply and private label from MOQ 50 pieces",
+      "b3": "Export documentation and worldwide shipping partners"
+    },
+    "detailsTitle": "Contact details",
+    "detailsIntro": "Use the form for wholesale inquiries. Email, WhatsApp, and phone remain open for direct contact.",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "whatsappLabel": "WhatsApp",
+    "locationLabel": "Location",
+    "replyChip": "Typical reply: 1–2 business days",
+    "focusChip": "Focus: wholesale, private label, export",
+    "formTitle": "Send a wholesale inquiry",
+    "formIntro": "Share products, quantities, destination, and packaging so we can prepare a quotation.",
+    "name": "Full name",
+    "namePlaceholder": "Your full name",
+    "phone": "Phone",
+    "phonePlaceholder": "+212 6xx-xxxxxx",
+    "email": "Email",
+    "emailPlaceholder": "you@company.com",
+    "company": "Company",
+    "companyPlaceholder": "Your company or brand",
+    "subject": "Subject",
+    "subjectPlaceholder": "Choose a subject",
+    "subjects": {
+      "wholesale": "Wholesale inquiry",
+      "privateLabel": "Private label",
+      "samples": "Sample request",
+      "export": "Export & shipping",
+      "other": "Other"
+    },
+    "message": "Message",
+    "messagePlaceholder": "Products, quantity, destination country, packaging, or private label brief…",
+    "submit": "Send inquiry",
+    "sent": "Your email app is opening with the inquiry. You can also reach us on WhatsApp.",
+    "required": "Please complete the required fields."
+  },
+  "blog": {
+    "heroTitle": "Wholesale insights for Moroccan beauty buyers",
+    "eyebrow": "B2B blog",
+    "introTitle": "Practical guides — not lifestyle fluff",
+    "intro": "Articles for importers, spa suppliers, and private label brands sourcing from Morocco. Export, MOQ, category building, and factory quality — written from a wholesaler’s perspective.",
+    "ctaTitle": "Need wholesale supply behind these topics?",
+    "ctaDescription": "Browse our product catalog or discuss private label and export with the Moroccan Cosmetics Wholesale team.",
+    "readArticle": "Read article",
+    "minRead": "{minutes} min read",
+    "related": "Related articles",
+    "viewAll": "View all articles",
+    "articleCtaTitle": "Ready to order or private label?",
+    "articleCtaDescription": "Request the wholesale catalog, MOQ details, and export terms for Moroccan cosmetics from Marrakesh.",
+    "publishedBy": "Published by",
+    "publishedMid": "— Moroccan cosmetics manufacturer, wholesaler, and exporter. For catalog access and quotes,",
+    "contactTeam": "contact our wholesale team"
+  }
+}
