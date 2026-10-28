@@ -66,7 +66,7 @@ export async function WholesalerSection() {
               <div className="mb-4 flex h-11 w-11 items-center justify-center rounded-xl bg-primary/10 text-primary">
                 <Icon className="h-5 w-5" aria-hidden />
               </div>
-              <h3 className="font-heading mb-2 text-lg font-semibold">{copy?.title ?? item.title}</h3>
+              <p className="font-heading mb-2 text-lg font-semibold text-foreground">{copy?.title ?? item.title}</p>
               <p className="text-muted-foreground mb-4 flex-1 text-sm leading-relaxed">
                 {copy ? (
                   <>

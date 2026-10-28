@@ -32,7 +32,7 @@ export async function ExportSection() {
               <div className="mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full border border-argan-gold/30 bg-section-dark">
                 <Icon className="h-7 w-7 text-argan-gold-light" aria-hidden />
               </div>
-              <h3 className="font-heading mb-2 text-lg font-semibold">{t(`steps.${key}Title`)}</h3>
+              <p className="font-heading mb-2 text-lg font-semibold text-cream">{t(`steps.${key}Title`)}</p>
               <p className="text-sm leading-relaxed text-cream/75">{t(`steps.${key}Description`)}</p>
             </div>
           );

@@ -67,13 +67,13 @@ async function FooterTrustStrip() {
 
 function FooterTrustHeading({ children }: { children: ReactNode }) {
   return (
-    <h3 className="font-heading relative mb-4 block w-full pb-3 text-center text-sm font-bold uppercase tracking-[0.14em] text-foreground sm:text-start">
+    <p className="font-heading relative mb-4 block w-full pb-3 text-center text-sm font-bold uppercase tracking-[0.14em] text-foreground sm:text-start">
       {children}
       <span
         className="absolute bottom-0 left-1/2 h-px w-10 -translate-x-1/2 border-b border-dashed border-primary sm:start-0 sm:left-auto sm:translate-x-0 rtl:sm:translate-x-0"
         aria-hidden
       />
-    </h3>
+    </p>
   );
 }
 
@@ -138,7 +138,7 @@ export async function SiteFooter() {
           </div>
 
           <div className="flex flex-col gap-4 sm:col-span-2 lg:col-span-3 min-w-0">
-            <h3 className="font-heading text-lg font-semibold">{t("contact")}</h3>
+            <p className="font-heading text-lg font-semibold text-foreground">{t("contact")}</p>
             <ul className="text-muted-foreground flex flex-col gap-3 text-sm min-w-0">
               <li dir="ltr" className="leading-relaxed">
                 {SITE.address}
@@ -196,7 +196,7 @@ function FooterLinkColumn({
 }) {
   return (
     <div className="flex flex-col gap-4">
-      <h3 className="font-heading text-lg font-semibold">{title}</h3>
+      <p className="font-heading text-lg font-semibold text-foreground">{title}</p>
       <ul className="flex flex-col gap-2">
         {links.map((link) => (
           <li key={`${link.href}-${link.label}`}>

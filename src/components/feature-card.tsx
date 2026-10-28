@@ -35,14 +35,14 @@ export function FeatureCard({
         <Icon className="h-5 w-5" aria-hidden />
       </div>
       <div>
-        <h4
+        <p
           className={cn(
             "mb-1 font-heading text-base font-semibold",
             variant === "light" ? "text-foreground" : "text-cream",
           )}
         >
           {title}
-        </h4>
+        </p>
         <p
           className={cn(
             "text-sm leading-relaxed",

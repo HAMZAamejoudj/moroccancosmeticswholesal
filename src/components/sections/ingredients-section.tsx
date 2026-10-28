@@ -36,9 +36,9 @@ export async function IngredientsSection() {
             </div>
             <div className="flex flex-1 flex-col p-4">
               <p className="text-primary mb-1 text-xs font-semibold tracking-wide uppercase">{t("badge")}</p>
-              <h3 className="font-heading mb-2 line-clamp-2 text-base font-semibold leading-snug">
+              <p className="font-heading mb-2 line-clamp-2 text-base font-semibold leading-snug text-foreground">
                 {t(`items.${item.slug}.name`)}
-              </h3>
+              </p>
               <p className="text-muted-foreground mb-3 flex-1 text-sm">{t(`items.${item.slug}.description`)}</p>
               <span className="inline-flex items-center gap-1 text-sm font-semibold text-primary">
                 {t("viewProduct")}

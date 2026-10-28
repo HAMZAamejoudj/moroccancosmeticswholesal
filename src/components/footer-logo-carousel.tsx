@@ -76,7 +76,7 @@ function LogoTile({ logo, decorative = false }: { logo: FooterBrandLogo; decorat
     >
       <img
         src={logo.src}
-        alt={decorative ? "" : logo.name}
+        alt={logo.name}
         width={148}
         height={64}
         className="h-auto max-h-[3.25rem] w-auto max-w-full object-contain"

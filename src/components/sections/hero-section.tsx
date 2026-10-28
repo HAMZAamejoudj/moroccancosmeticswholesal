@@ -35,10 +35,8 @@ export async function HeroSection() {
         <div className="mx-auto max-w-4xl text-center lg:max-w-5xl">
           <Eyebrow className="text-argan-gold-light">{t("eyebrow")}</Eyebrow>
           <h1 className="font-heading mx-auto mb-4 max-w-4xl text-[1.65rem] leading-[1.12] font-bold tracking-tight text-white uppercase min-[480px]:text-4xl sm:text-[2.35rem] md:text-5xl lg:text-6xl">
-            <span className="block min-[480px]:hidden">{t("titleMobile1")}</span>
-            <span className="block min-[480px]:hidden">{t("titleMobile2")}</span>
-            <span className="hidden min-[480px]:block">{t("titleLine1")}</span>
-            <span className="hidden min-[480px]:block">{t("titleLine2")}</span>
+            <span className="block">{t("titleLine1")}</span>
+            <span className="block">{t("titleLine2")}</span>
           </h1>
           <p className="mb-5 text-lg text-white/90 sm:text-xl">{t("subtitle")}</p>
           <div className="mb-8 flex flex-wrap items-center justify-center gap-x-4 gap-y-2 text-xs font-bold tracking-[0.18em] text-white/80 uppercase">
