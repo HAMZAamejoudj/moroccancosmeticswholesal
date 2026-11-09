@@ -5,13 +5,14 @@ import { SITE } from "@/lib/constants";
 type SiteLogoProps = {
   className?: string;
   priority?: boolean;
+  alt?: string;
 };
 
-export function SiteLogo({ className, priority }: SiteLogoProps) {
+export function SiteLogo({ className, priority, alt = SITE.name }: SiteLogoProps) {
   return (
     <Image
       src={SITE.logoSrc}
-      alt={`${SITE.name} logo`}
+      alt={alt}
       width={240}
       height={99}
       priority={priority}
